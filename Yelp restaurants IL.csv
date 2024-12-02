@@ -1,0 +1,984 @@
+name,city,address,state,postal_code,stars,review_count
+Fairview Lounge,Fairview Heights,10616 Lincoln Trl,IL,62208,4.5,140
+Johnsons Corner,Alton,2000 State St,IL,62002,3.5,30
+Applebee's Grill + Bar,Wood River,1921 Vaughn Rd,IL,62095,3,17
+Taco Bell,Troy,908 Edwardsville Road,IL,62294,2,10
+Morrison's Irish Pub,Alton,200 State St,IL,62002,4.5,48
+The Perfect 10 Pub & Grill,Alton,180 E Center Dr,IL,62002,3.5,33
+Gauchos Argentinian Steakhouse,Fairview Heights,"823 Lincoln Hwy, Ste 105",IL,62208,4.5,118
+My Bowl Korean BBQ,O'Fallon,747 Seibert Rd,IL,62269,4.5,76
+Cured And Cultured,Belleville,6401 W Main St,IL,62223,4.5,19
+New China Restaurant,Swansea,4543 N Illinois St,IL,62226,3,18
+Bandana's Bar-B Q - Collinsville,Collinsville,4 Commerce Dr,IL,62234,4,112
+Fazoli's,Alton,210 E. Homer Adams Pkwy.,IL,62002,4.5,14
+IHOP,Wood River,1201 Edwardsville Rd,IL,62095,2.5,10
+Outback Steakhouse,Swansea,4390 N Illinois St,IL,62226,3,80
+Franks Restaurant,Alton,2611 College Ave,IL,62002,3.5,8
+Shooters,O'Fallon,113 E 1st St,IL,62269,3.5,80
+Pizza Hut,Edwardsville,2386 Troy Rd,IL,62025,2,17
+Sacred Grounds,Edwardsville,233 N Main St,IL,62025,4,78
+Hop House Southern Eatery,O'Fallon,1214 Central Park Dr,IL,62269,4,407
+Nick and Vito's,Belleville,8201 W Main St,IL,62223,5,10
+1818 Chophouse,O'Fallon,"1405 N Green Mount Rd, Ste 100",IL,62269,4,145
+Golden Dragon Chinese Restaurant,Belleville,128 W Main St,IL,62220,3.5,16
+Dairy Queen Grill & Chill,Lebanon,412 S Madison St,IL,62254,4.5,11
+Oriental Spoon,Edwardsville,229 Harvard Dr,IL,62025,4.5,128
+Riviera Maya Restaurant,Alton,2704 Corner Ct,IL,62002,4,44
+China King,Alton,1837 Homer Adams Pkwy,IL,62002,3.5,19
+Sonic Drive-In,Belleville,6208 W Main St,IL,62223,1.5,9
+Red Lobster,Fairview Heights,110 Ludwig Dr,IL,62208,3,79
+4 Hermanos Mexican Cuisine,Edwardsville,"4 Club Centre Ct, Ste A",IL,62025,4,12
+Sherry J's Homestyle Cooking,East Saint Louis,4815 Bunkum Rd,IL,62204,4,7
+The Red Bar,Collinsville,416 Belt Line Rd,IL,62234,3,33
+Los Alamos Mexican Restaurant,Wood River,57 W Edwardsville Rd,IL,62095,4,11
+The Diner,East St Louis,401 Monsanto Ave,IL,62201,4,14
+Marco's Pizza,Collinsville,108 St Louis Rd,IL,62234,3,7
+Lam's Garden,Granite City,3144 Nameoki Rd,IL,62040,3,12
+Mr. Pancho’s,East Alton,119 East Gate Plz,IL,62024,4.5,27
+Pizza Hut,Waterloo,903 N Illinois Rte 3,IL,62298,2.5,7
+Waffle House,Collinsville,505 Bluff Rd,IL,62234,3.5,53
+Wicked Smoke Bar B Que,Waterloo,951 N Illinois Rt 3,IL,62298,4.5,17
+Highflyers Grille,East Alton,16 Terminal Dr,IL,62024,2.5,31
+The CoffeeHouse,O Fallon,1333 Central Park Dr,IL,62269,4.5,46
+Hofbräuhaus St Louis Belleville,Belleville,123 St Eugene Dr,IL,62223,3,298
+Green Earth Grocery,Edwardsville,441 S Buchanan St,IL,62025,3.5,26
+Buffet City,Edwardsville,124 S Buchanan St,IL,62025,3,10
+Pie Hard Pizza,Waterloo,122 W Mill,IL,62298,4.5,17
+Agostino's Restaurant and Bar,Fairview Heights,130 Ludwig Dr,IL,62208,4,187
+Fortel's Pizza Den,Fairview Heights,10716 Lincoln Trl,IL,62208,3.5,41
+LongHorn Steakhouse,Fairview Heights,6115 N Illinois St,IL,62208,3.5,62
+Airliner Bar & Grill,East Alton,573 E Airline Dr,IL,62024,4,11
+Fast Eddies Fried Chicken,Alton,701 Central Ave,IL,62002,4,30
+Peel Wood Fired Pizza,O'Fallon,104 S Cherry St,IL,62269,4,385
+St. Louis Paranormal Research Society,St. Louis,1820 Cherokee St,IL,63118,5,14
+Firehouse Subs,Collinsville,"1095 Belt Line Rd, Ste 100",IL,62234,4,9
+Aunt Sams Uptown Eatery,Alton,2512 College Ave,IL,62002,3.5,11
+Orient Wok Chop Suey,Edwardsville,6698 Center Grove Rd,IL,62025,3.5,14
+White Castle,Belleville,5820 Belleville Crossing St,IL,62226,2.5,12
+Subway,Belleville,1140 S Illinois St,IL,62220,3,6
+India's Oven,Swansea,2625 N Illinois St,IL,62226,4,100
+Tong Phoon Thai Restaurant,Fairview Heights,5900 N Illinois St,IL,62208,4,109
+White Castle,Cahokia,1620 Camp Jackson Rd,IL,62206,3,7
+Sammis Sandwich At Norbs,Alton,2505 State St,IL,62002,4,45
+McDonald's,Lebanon,713 S Madison,IL,62254,2.5,13
+QDOBA Mexican Eats,Collinsville,1100 Collinsville Crossing Blvd,IL,62234,3,19
+Wang Gang Asian,Edwardsville,1035 Century Dr,IL,62025,3.5,168
+Gia's Pizza,O Fallon,102 W State St,IL,62269,3.5,96
+Jerry's Cafeteria & Catering,Granite City,1920 Edison Ave,IL,62040,4.5,20
+Don Chencho Mexican Restaurant,Granite City,"3361 Fehling Rd, Ste 4",IL,62040,3.5,22
+The Fifth Quarter,Collinsville,118 E Main St,IL,62234,3,10
+Subway,Glen Carbon,106 Junction Dr,IL,62034,2,6
+Olive Oil Marketplace,Alton,108 W 3rd St,IL,62002,4.5,8
+Gallagher's Restaurant,Waterloo,114 W Mill St,IL,62298,4,162
+Taco Bell,Belleville,5 South Belt West,IL,62220,1,17
+Papa Vito's Belleville,Belleville,318 E Washington,IL,62220,4,107
+The Brown Bag Bistro,Alton,318 E Broadway St,IL,62002,4.5,70
+Dairy Queen Grill & Chill,Columbia,1001 S Main St,IL,62236,2.5,22
+Mystic Oak Golf Course,Waterloo,643 Ridge Rd,IL,62298,4,6
+Red Apple,Columbia,230 N Main St,IL,62236,2,5
+Dairyland,Dupo,501 S Main St,IL,62239,5,10
+Stur Restaurant and Lounge,Edwardsville,"4 Club Center C, Suite A",IL,62025,3,22
+Jack in the Box,Alton,1649 Washington Ave,IL,62002,2.5,12
+Lotawata Creek Southern Grill,Fairview Heights,311 Salem Pl,IL,62208,3.5,550
+222 Artisan Bakery,Edwardsville,222 N Main St,IL,62025,4.5,104
+Wendy's,Swansea,2638 N Illinois St,IL,62226,1.5,9
+Smoke Pit Bar-B-Que,Collinsville,404 Belt Line Rd,IL,62234,3,18
+KFC,O Fallon,1717 West Highway 50,IL,62269,2.5,8
+Hardee's,Belleville,2 S Belt E,IL,62220,1.5,7
+Wood River Donut Shop,Wood River,102 W Edwardsville Rd,IL,62095,4.5,7
+Sandwich Shop,Collinsville,216 W Main St,IL,62234,4.5,12
+Roemer Topf,Mascoutah,1415 McKinley Rd,IL,62258,4.5,83
+Blue Ice Creamery,East Alton,127 Eastgate Plz,IL,62024,4,9
+Lucy n' Ricardo's,Edwardsville,3624 Edwardsville Rd,IL,62025,3,18
+Plan Shop Live,Maryville,2719 N Center St,IL,62062,5,12
+Farmer's Inn Restaurant & Bar,Millstadt,7157 State Rte 158,IL,62260,3.5,10
+Fazzi's Bar & Grill,Collinsville,1813 Vandalia St,IL,62234,4,115
+WIT Cafe,Scott Air Force Base,821 Seibert Rd,IL,62225,4,19
+Popeyes Louisiana Kitchen,Fairview Heights,6011 N Illinois St,IL,62208,2.5,53
+Randy's House of BBQ,Troy,1595 Troy O'Fallon Rd,IL,62294,3.5,14
+China King,Millstadt,210 W Mill St,IL,62260,4.5,11
+Gentelin's On Broadway,Alton,122 E Broadway,IL,62002,4,69
+Cracker Barrel Old Country Store,Shiloh,3160 Green Mount Crossing Dr,IL,62269,3.5,84
+Jack in the Box,Wood River,41 E Edwardsville Rd,IL,62095,1,7
+Alton Sports Tap,Alton,3812 College Ave,IL,62002,3.5,27
+Doc Holliday's Saloon & Steakery,Cottage Hills,308 W MacArthur,IL,62018,2.5,15
+The Red Onion,Belleville,923 W Main St,IL,62220,2,8
+Jack Crab,Fairview Heights,51 Ludwig Dr,IL,62208,4,45
+Uncle Nick's Deli,Belleville,1140 S Illinois St,IL,62226,4,29
+Horseshoe Lounge & Restaurant,Collinsville,410 Saint Louis Rd,IL,62234,3.5,24
+China King,Belleville,651 Carlyle Ave,IL,62221,3,14
+Culver's,Edwardsville,6724 Old Troy Rd,IL,62025,3.5,23
+Elijah P'S Burgers & Brews,Alton,401 Piasa St,IL,62002,3.5,84
+Bann Thai,Edwardsville,"4 Club Centre Ct, Ste H",IL,62025,4.5,73
+Big Daddy's 618,Belleville,313 E Main St,IL,62220,2.5,19
+Mariscos Seafood El Najar,East St. Louis,5606 Colinsville Rd,IL,62201,4,5
+Chew Doin Fried Chicken & Ramen,Edwardsville,210 South Buchanan,IL,62025,3,10
+Donatello's,Maryville,1 Schiber Court,IL,62062,2.5,11
+Mascoutah Steak House,Mascoutah,1415 McKinley St,IL,62258,3.5,51
+Sonic Drive-In,Edwardsville,1017 Plummer Dr,IL,62025,2.5,9
+Sukey's China Restaurant,Wood River,730 E Edwardsville Rd,IL,62095,3,6
+Super Gyros,Maryville,2615 N Center St,IL,62062,2.5,11
+Vin Hoa,Granite City,3212 Nameoki Rd,IL,62040,4.5,33
+Mister Donut,Godfrey,"2720 Grovelin St, Ste A",IL,62035,4,29
+Crehan's Irish Pub,Belleville,5500 N Belt W,IL,62226,2.5,13
+Margaritas Mexican Restaurant & Cantina,Belleville,108 E A St,IL,62220,3.5,53
+Captain D's,Edwardsville,1960 Troy Rd,IL,62025,2.5,10
+Sushi Thai by Samran,Belleville,229 N Illinois St,IL,62220,4.5,53
+Dreamland Palace German Restaurant,Foster Pond,3043 State Rt 156,IL,62298,3.5,70
+Taco Bell,Cahokia,1616 Camp Jackson Road,IL,62206,1.5,8
+Itty-Bitty,Granite City,512 E Chain Of Rocks Rd,IL,62040,4.5,33
+Bully's Smokehouse,Columbia,1280 Columbia Ctr,IL,62236,3.5,58
+Max & Erma's,Fairview Heights,315 Saint Clair Sq,IL,62208,2,5
+Hemingway's Zen Garden,O'Fallon,123 E 1st St,IL,62269,3.5,46
+Ja Bowl China Express,Waterloo,101 N Market St,IL,62298,4,9
+Global Brew Tap House,O'fallon,"455 Regency Park, Ste B",IL,62269,4,74
+The Boulevard Wingstreet,Edwardsville,"4 Club Centre Ct, Ste E",IL,62025,3,12
+Chic N Pig,Godfrey,3200 Godfrey Rd,IL,62035,4,25
+Penn Station,Granite City,3463 Nameoki Rd,IL,62040,3,5
+Japanese Garden,O Fallon,108 Regency Park,IL,62269,2.5,9
+Wendy's,Belleville,5959 Belleville Crossing St,IL,62226,2,7
+Mexico Tipico,Lebanon,501 S Madison St,IL,62254,4.5,26
+McDonald's,Swansea,2605 N Illinois,IL,62226,1.5,19
+Sake Sushi Bar and Grill,O Fallon,1325 Central Park Dr,IL,62269,4.5,113
+Lovett's Soul Food,Alton,2512 College Ave,IL,62002,3.5,22
+Schiappa's,Lebanon,402 S Madison St,IL,62254,3.5,22
+KFC,Collinsville,1700 N Vandalia,IL,62234,2,11
+The Egg & I,O'Fallon,455-D Regency Park,IL,62269,4,232
+El Sombrero,Mascoutah,215 W Main St,IL,62258,3.5,18
+Pizza Hut,Fairview Heights,5913 N Illinois St,IL,62208,2.5,8
+Downtown Diner,Granite City,1400 Niedringhaus Ave,IL,62040,4,8
+Acropolis,Belleville,200 W Main St,IL,62220,3,13
+Burger King,Pontoon Beach,1301 E Chain Of Rocks Rd,IL,62040,1.5,8
+Cafe on the Abbey,Columbia,322 S Main St,IL,62236,4,32
+Apple Tree Family Restaurant,Granite City,3717 Nameoki Rd,IL,62040,4,24
+Viva la Fiesta,Edwardsville,1027 Century Dr,IL,62025,3.5,19
+Casa Gallardo Mexican Restaurant & Cantina,Fairview Heights,6600 N Illinois St,IL,62208,2.5,9
+The Vault,Collinsville,102 W Main St,IL,62234,4.5,8
+McDonald's,Pontoon Beach,2 Engineer Rd,IL,62040,1.5,30
+McDonald's,Granite City,1515 Johnson Rd,IL,62040,1.5,13
+Firehouse Subs,Fairview Heights,5909 North Illinois St,IL,62202,4,36
+Cleveland-Heath,Edwardsville,106 N Main St,IL,62025,4.5,455
+Hicks Bar-B-Que Company,Belleville,609 S Illinois St,IL,62220,4,86
+Tiny's,Columbia,602 N Main St,IL,62236,3.5,9
+El Mezcal,Godfrey,3034 Godfrey Rd,IL,62035,3.5,22
+Tony's Restaurant & 3rd Street Cafe,Alton,312 Piasa St,IL,62002,3,94
+Crafty Crab,Fairview Heights,51 Ludwig Dr,IL,62208,2.5,14
+The Cobblestone Eatery and Drinkery,Lebanon,115 W St Louis St,IL,62254,3.5,52
+Joe’s Pizza and Pasta,Godfrey,"5775 Godfrey Rd, Ste A",IL,62035,4,17
+Triple R's Smokehouse,Mascoutah,1414 W Main St,IL,62258,4.5,8
+Joe K's,Alton,2530 State St,IL,62002,4.5,34
+Hickory Grove,Alton,201 E Center Dr,IL,62002,4,6
+Jimmy John's,Fairview Heights,"5200 North Illinois St, Suite 106",IL,62208,2.5,19
+Lion’s Choice,Edwardsville,2384 Troy Rd,IL,62025,3,16
+Pizza Hut,Troy,710 Edwardsville Rd,IL,62294,2.5,8
+Shenanigans Bar & Grill,Edwardsville,2 157 Ctr,IL,62025,3.5,11
+Lucinda's Grill and Cafe,Belleville,925 S Belt W,IL,62220,5,5
+Thai House,Columbia,109 S Main St,IL,62236,4.5,117
+Syberg's O'Fallon,O'Fallon,1310 Central Park Dr,IL,62269,3,93
+Jimmy John's,Glen Carbon,3815 S State Route 159,IL,62034,2,8
+Bella Milano,Edwardsville,1063 S State Route 157,IL,62025,4,166
+Chicken Salad Chick,O'Fallon,"1128 Merchants Way, Ste 310",IL,62269,3,10
+Hardee's,Granite City,3249 W Chain Of Rocks,IL,62040,2.5,8
+Sakura Hibachi Sushi Bar,O'Fallon,"1334 Central Park Dr, Unit 6-7",IL,62269,3,45
+Proving Ground,Columbia,180 Columbia Ctr,IL,62236,4.5,48
+Denny's,Waterloo,959 Illinois Rt 3,IL,62298,3.5,11
+Otts Tavern & Millstadt Fish Stand,Millstadt,20 E Washington St,IL,62260,4,35
+Charlie's Drive-In,Wood River,762 N Wood River Ave,IL,62095,4.5,17
+Hen House Restaurant,Granite City,1250 E Chain Of Rocks Rd,IL,62040,4,44
+The Cabin At Judy Creek,Glen Carbon,3730 S State Rt 157,IL,62034,4.5,58
+Joe Boccardi's Ristorante,Swansea,127 N Belt E,IL,62226,2.5,7
+Shenanigan's Restaurant & Sports Bar,Belleville,15 N 64th St,IL,62223,3,10
+Shorty’s Smokehouse,Waterloo,121 S Main St,IL,62298,4.5,43
+Rally's,Cahokia,1600 Camp Jackson Road,IL,62206,1.5,5
+Krab Kingz,O'Fallon,1334 Central Park Dr,IL,62269,4,29
+Papa John's Pizza,Belleville,3809 North Belt West,IL,62226,1.5,13
+Shannon's Kitchen Company,Scott Air Force Base,817 Seibert Rd,IL,62225,4.5,6
+Swansea Fish Stand,Swansea,301 Service St,IL,62226,4.5,16
+Basil Thai Cuisine,Fairview Heights,325 Lincoln Hwy,IL,62208,3,6
+Jack in the Box,Edwardsville,300 S Buchanan St,IL,62025,1.5,15
+Twisted Biscuit Brunch,Edwardsville,1071 S State Rte 157,IL,62025,3.5,49
+Clifton Country Inn Restaurant & Bakery,Godfrey,3015 W Delmar Ave,IL,62035,4,21
+Round Table,Godfrey,"5407 Godfrey Rd, Ste B",IL,62035,4.5,29
+No-Jacks Bar & Grill,Smithton,4001 State Rt 159,IL,62285,3.5,17
+Papa John's Pizza,Waterloo,883 North Illinois Rte,IL,62298,3,6
+China King,O Fallon,729 W US Hwy 50,IL,62269,3,36
+New China,Collinsville,"1099 Belt Line Rd, Unit G",IL,62234,2.5,23
+Joe's Pizza & Pasta,Troy,"904 Edwardsville Rd, Ste 200",IL,62294,3.5,42
+Olga's Kitchen,Fairview Heights,168 Saint Clair Square,IL,62208,3,21
+Chevys Fresh Mex,O'Fallon,1305 Central Park Dr,IL,62269,3,67
+Super Gyros,Belleville,766 Carlyle Ave,IL,62221,4.5,79
+Steak-Out,Swansea,2013 N 17th St,IL,62226,4,20
+Mr Currys India Restaurant,Edwardsville,7403 Marine Rd,IL,62025,4,35
+Jimmy John's,Alton,92 Northport Dr,IL,62002,3.5,10
+TGI Fridays,Fairview Hts,6900 N Illinois St,IL,62208,2,110
+Taco Bell,East Alton,101 Niagara St.,IL,62024,2,7
+Bully's Smokehouse,Edwardsville,1035 Century Dr,IL,62025,3,10
+Andria's Countryside,Edwardsville,7415 State Rt 143,IL,62025,3.5,48
+Jade Garden,Caseyville,2736 Progress Ave,IL,62232,3,6
+Fire-N-Smoke Wood Fired Kitchen,Troy,914 Edwardsville Rd,IL,62294,4,235
+Best Pizza Buffet,Belleville,2525 Green Mt Commons Dr,IL,62221,2,38
+Stingers,Cahokia,440 Falling Springs Rd,IL,62206,4,13
+American Kolache,Edwardsville,6189 Bennett Dr,IL,62025,4.5,7
+Kool Beanz Cafe,Granite City,1316 Niedringhaus Ave,IL,62040,4.5,39
+Jack in the Box,Alton,101 Homer M Adams Pkwy,IL,62002,3.5,6
+Joes Pizza & Pasta,Collinsville,"1009 Beltline Rd, Ste A & B",IL,62234,2.5,11
+St. Louis Bread,Collinsville,525 N Bluff Rd,IL,62234,3,29
+McDonald's,Columbia,300 Columbia Ctr,IL,62236,2,19
+Dairy Queen Grill & Chill,Caseyville,2411 Old Country Inn Dr,IL,62232,1.5,10
+Country Pride Truckstop Restaurant,Troy,819 Edwardsville Rd,IL,62294,3.5,7
+Zapata's Mexican Restaurant,Collinsville,8 Eastport Plaza Dr,IL,62234,2.5,95
+Imo's Pizza,Bethalto,"515 N Bellwood Rd, Ste A",IL,62010,2.5,18
+Casa Azteca,O Fallon,501 W US Hwy 50,IL,62269,3.5,54
+Hokkaido Seafood Buffet and Grill,Swansea,4580 N Illinois St,IL,62226,3,101
+Fischer's Restaurant,Belleville,2100 W Main St,IL,62226,3,23
+EL Nino ​Mexican Buffet,Fairview Heights,10616 Lincoln Trl,IL,62208,4,10
+Hardee's,Cahokia,1508 Camp Jackson Rd,IL,62206,2.5,8
+Imo's Pizza,Edwardsville,1100 S State Route 157,IL,62025,2.5,43
+Don & Penny's Restaurant,Alton,306 State St,IL,62002,3.5,7
+Imo's Pizza,Godfrey,2704 Godfrey Rd,IL,62035,2.5,22
+The Weeping Willow Tea Room,Glen Carbon,123 Glen Crossing Rd,IL,62034,5,5
+Boston Market,Fairview Heights,6535 North Illinois,IL,62208,2.5,16
+Clean Eatz,Edwardsville,316 S Buchanan St,IL,62025,3.5,21
+Joe's Pizza & Pasta,Edwardsville,4 Club Centre Ct,IL,62025,4,67
+Bluff City Grill,Alton,424 E Broadway,IL,62002,4,86
+Oregon Trail Roasting Co,Belleville,201 W Main St,IL,62220,4,6
+Mama Mia's Italian Restaurant,Granite City,2868 Madison Ave,IL,62040,3.5,6
+IHOP,Alton,181 Homer M Adams Pkwy,IL,62002,2,23
+Germania Brew Haus,Alton,617 E Broadway,IL,62002,4.5,39
+Nanny Lou's Kitchen,Belleville,1926 W Main St,IL,62226,4,11
+China King,Fairview Heights,10239 Lincoln Trl,IL,62208,4.5,15
+Culver's,Collinsville,100 United Dr,IL,62234,3,21
+St Clair Bowl,Fairview Heights,5950 Old Collinsville Rd,IL,62208,3,7
+Big Johns Cuban Cafe,Wood River,144 E Ferguson Ave,IL,62095,5,25
+Stagger Inn,Edwardsville,104 E Vandalia St,IL,62025,4,46
+Sarku Japan,Fairview Heights,154 St Clair Sq,IL,62208,3.5,5
+Penn Station East Coast Subs,Fairview Heights,2085 W US Hwy 50,IL,62208,4,31
+Gilliganz Bar & Grill,Edwardsville,7257 Saint James Dr,IL,62025,3,16
+Maxwell's Restaurant,Belleville,923 W Main St,IL,62220,3.5,11
+Shogun Steak House,Alton,2723 Corner Ct,IL,62002,3,41
+Burger King,Belleville,2508 Green Mount Commons Dr,IL,62221,2.5,14
+Aiello's Pizzeria,Granite City,1318 Niedringhaus Ave,IL,62040,4,12
+The Wine Tap,Belleville,223 E Main St,IL,62220,4.5,93
+Mi Casa Mexican Restaurant,Belleville,4311 W Main St,IL,62226,4,42
+Belleville Pancake House,Belleville,3605 N Belt W,IL,62226,4,41
+Pita Pit,Edwardsville,215 Harvard Dr,IL,62025,3.5,7
+Popeyes Louisiana Kitchen,Collinsville,Hwy 157 Near Collinsport Dr,IL,62234,1.5,13
+Student Union Cafe,Scott AFB,404 W Martin St,IL,62225,3.5,5
+Carver's,Godfrey,2716 Grovelin St,IL,62035,4.5,23
+Weather Vane Ice Cream,Granite City,3208 Maryville Rd,IL,62040,4,15
+Smokey Bones Bar & Fire Grill,Fairview Heights,6118 N. Illinois St.,IL,62208,3,95
+Domino's Pizza,Belleville,4000 W Main St,IL,62226,2,22
+Red Robin Gourmet Burgers and Brews,Edwardsville,6699 Edwardsville Crossing Dr,IL,62025,3,76
+QDOBA Mexican Eats,Shiloh,"3210 Green Mount Crossing Dr, Unit 10",IL,62269,2.5,73
+Buffalo Wild Wings,Belleville,5600 Belleville Crossing St,IL,62226,2.5,32
+McDonald's,Cahokia,1110 Camp Jackson Rd,IL,62206,1.5,8
+Wingstop,Edwardsville,2100 Troy Rd,IL,62025,3,30
+Denny's,Glen Carbon,27 Junction Dr,IL,62034,2,25
+Far Oaks Golf Club,Caseyville,419 Old Collinsville Rd,IL,62232,3,11
+Sonic Drive-In,East Alton,103 Niagara St,IL,62024,2,10
+Culver's,O'Fallon,1702 W US Hwy 50,IL,62269,3.5,43
+Tequila Mexican Restaurant,Waterloo,835 N Market St,IL,62298,3.5,21
+Golden Oak Pancake House,Edwardsville,"6663 Edwardsville Crossing Dr, Ste A",IL,62025,4.5,5
+Peachy Yogurt Bar,Belleville,200 E Main St,IL,62220,3.5,15
+Taqueria Olvera,Fairview Heights,341 Market Pl,IL,62208,4.5,189
+Walton's Ice Cream and More,Smithton,408 South Main St,IL,62285,5,13
+Jade Garden,Maryville,2 Professional Park Dr,IL,62062,3.5,31
+The Abbey Espresso Bar and Café,Belleville,5801 W Main St,IL,62223,4.5,88
+Casey's,Maryville,2101 S Center St,IL,62062,4,7
+1818 Chophouse,Edwardsville,6170 Bennett Drive,IL,62025,4,188
+Time Out Sports Bar & Grill,Troy,111 W Market St,IL,62294,3,11
+Bella Vista Winery,Maryville,6633 E Main St,IL,62062,2.5,19
+Hooters,Fairview Heights,"301 Market Pl, Ste C",IL,62208,2.5,48
+Domino's Pizza,O Fallon,304 E Highway 50,IL,62269,2,22
+LuciAnna's Pastries,Alton,607 E Broadway,IL,62002,4.5,34
+New China,Bethalto,133 E Bethalto Dr,IL,62010,4.5,28
+Honey Baked Ham Company,Fairview Heights,26 Lincoln Hwy,IL,62208,4.5,7
+McDonald's,Collinsville,503 Belt Line Rd,IL,62234,2,6
+Jimmy John's,Collinsville,701 N Bluff Rd,IL,62234,2.5,8
+Peking Garden,Collinsville,604 W Main St,IL,62234,4,40
+McDonald's,O'Fallon,109 E Hwy 50,IL,62269,1.5,45
+Rally's,Granite City,2220 Madison Avenue,IL,62040,3.5,6
+The Pasta House,Edwardsville,1097 South State Rt. 157,IL,62025,3,53
+Orient,Edwardsville,1518 Troy Rd,IL,62025,4,36
+West End Bar & Restaurant,Millstadt,319 W Laurel St,IL,62260,4,10
+Chicken Salad Chick,Edwardsville,"2323 Plum St, Ste 300",IL,62025,4,22
+Coyote's Ranch Grill & Saloon,Edwardsville,4 Club Center Ct,IL,62025,1.5,6
+McDonald's,Belleville,125 S Belt E,IL,62220,2,16
+Jack in the Box,Belleville,500 S Illinois St,IL,62220,2,10
+New York Fish Chicken Gyro,Belleville,5110 N Belt W,IL,62226,3.5,15
+Domino's Pizza,Mascoutah,9785 Hayden Dr,IL,62558,2.5,16
+Kika's Hawaiian Specialties,Granite City,1371 Edwardsville Rd,IL,62040,4.5,8
+Jack in the Box,O Fallon,1360 W Us Highway 50,IL,62269,2,44
+Fire-N-Smoke Wood-Fired Kitchen,O'Fallon,1214 Central Park Dr,IL,62269,3.5,36
+Freddy's Frozen Custard & Steakburgers,Shiloh,3320 Green Mount Crossing Dr,IL,62269,3.5,60
+Freddy's Frozen Custard & Steakburgers,Collinsville,301 N Bluff,IL,62234,3.5,22
+Bossanova Restaurant and Lounge,Alton,112 W 3rd St,IL,62002,4,57
+Steak ’n Shake,Alton,80 Homer Adams Pkwy,IL,62002,2.5,27
+Amore,O'Fallon,1050 Eastgate Dr,IL,62269,3.5,15
+Mariachis,Belleville,400 S Illinois St,IL,62220,3.5,48
+Marko's Fish House,Madison,820 Madison Ave,IL,62060,4.5,33
+Mike Shannon's Grill,Edwardsville,871 S Arbor Vitae,IL,62025,3.5,115
+Mr BBQ At Mystic Oak,Waterloo,643 Ridge Rd,IL,62298,5,9
+Noodles & Company,Shiloh,3290 Green Mount Crossing,IL,62269,3,63
+Charlie's Off Main,Belleville,200 Mascoutah Ave,IL,62220,3.5,11
+Ponderosa Steakhouse,Collinsville,5 Eastport Plaza Dr,IL,62234,3.5,7
+Caseyville Cafe,Caseyville,421 S Main St,IL,62232,3,5
+Bamboo Valley Buffet,Belleville,653 Carlyle Ave,IL,62221,3.5,22
+Long John Silver's,Fairview Heights,218 Lincoln Hwy,IL,62208,3,6
+South Main Diner,Caseyville,"421 S Main St, Ste A",IL,62232,4.5,38
+Five Guys,Edwardsville,1990 Troy Rd,IL,62025,3.5,5
+Doc's Smokehouse,Edwardsville,"6108 Shoger Dr, Ste D",IL,62025,4.5,226
+KFC,Waterloo,918 N Market St,IL,62298,2,7
+Old Bakery Beer,Alton,400 Landmarks Blvd,IL,62002,4,147
+Las Cabanas Mexican Restaurant,Lebanon,300 S Madison St,IL,62254,5,8
+Subway,Alton,712 E Broadway,IL,62002,2,7
+Si Senor Mex Mex Grill,Granite City,1533 Johnson Rd,IL,62040,2.5,19
+Steak ’n Shake,Collinsville,606 North Blf,IL,62234,2,65
+Chez Marilyn,Alton,119 W 3rd St,IL,62002,3.5,29
+My Just Desserts,Alton,31 E Broadway,IL,62002,4,74
+Ravanelli's,O'Fallon,1214 Central Park Dr,IL,62269,3,43
+88 China II,Freeburg,425 Marketplace Dr,IL,62243,4.5,9
+China King - Belleville,Belleville,"5720 N Belt W, Ste 50",IL,62226,3,18
+St. Louis Bread,Shiloh,3120 Green Mount Crossing Dr,IL,62269,2.5,73
+Steak ’n Shake,Edwardsville,2382 Troy Rd,IL,62025,2,41
+Aroy Thai,O Fallon,1140 Central Park Dr,IL,62269,3.5,157
+Spoon Baking Company,Alton,4 E Broadway,IL,62002,4.5,7
+Wings of Shiloh,Shiloh,321 S Main St,IL,62269,4.5,30
+Papa Mendi's Grill and Bar,Swansea,127 N Belt E,IL,62226,2.5,7
+Castletown Geoghegan,Belleville,104 W Main St,IL,62220,3,5
+McDonald's,Caseyville,1 Rauckman Dr,IL,62232,1.5,37
+Pop’s Fish & Chicken,Belleville,925 S Belt W,IL,62220,3.5,12
+Mariachi's Mexican Restaurant & Cantina,Maryville,2922 N Center St,IL,62062,3.5,58
+Quiznos,Edwardsville,1053 Century Dr,IL,62025,3,10
+Golden Corral Buffet & Grill,Alton,350 Homer Adams Parkway,IL,62002,2,6
+East Gate Grocery,O'Fallon,"715 Lakepointe Centre, Ste 109",IL,62269,4.5,7
+Golden Corral Buffet & Grill,Shiloh,3360 Green Mt Crossing Rd,IL,62269,2.5,38
+Bootsie's,Waterloo,1365 N Rte 3,IL,62298,3,36
+Bob Evans,Fairview Heights,10 Ludwig Dr,IL,62208,2.5,31
+Sugo's Spaghetteria,Edwardsville,243 Harvard Dr,IL,62025,4,109
+Freddys Frozen Custard & Steakburgers,Edwardsville,2204 Troy Rd,IL,62025,3,17
+Asia Garden,Collinsville,1972 Vandalia St,IL,62234,4,54
+King Louie's Drive-In,Wood River,315 S 6th St,IL,62095,4,53
+friday's South Bar & Grill - Collinsville,Collinsville,106 E Main St,IL,62234,4,33
+Magnums,East Alton,407 E Main St,IL,62024,3,10
+A&W Restaurant,Collinsville,379 North Bluff Road Lot 10,IL,62234,2,15
+Papa Murphy's,O'Fallon,"1407 W US Hwy 50, Ste 101",IL,62269,4.5,15
+Chipotle Mexican Grill,Edwardsville,2200 Troy Rd,IL,62025,2,10
+Luna,O'Fallon,1411 W Hwy 50,IL,62269,3,10
+Bobeck's Sports Bar & Grill,Waterloo,1324 Jamie Ln,IL,62298,3.5,8
+Sushi Ai,O'Fallon,729 W Hwy 50,IL,62269,3,57
+Hurricanes Bar & Grill,Collinsville,222 W Main St,IL,62234,4,11
+China Quick,Belleville,940 Carlyle Ave,IL,62221,3,41
+GC Cuisine & Crystal Gardens,Edwardsville,1230 University Dr,IL,62025,3,12
+Tasty Burgers,East Saint Louis,2700 State St,IL,62205,4.5,9
+China Wok,Godfrey,2702 Godfrey Rd,IL,62035,4,20
+Imo’s Pizza,Troy,631 Edwardsville Rd,IL,62294,2,7
+Papa John's Pizza,Alton,2700 Washington Avenue,IL,62002,2,5
+The Corner Chill & Grill,Belleville,341 Centerville Ave,IL,62220,4.5,27
+Westview Wine Cellar,Collinsville,"1803 Ramada Blvd, Ste B101",IL,62234,2,5
+Jimmy John's,O Fallon,729 W US Hwy 50,IL,62269,4,5
+Decaro's,Alton,602 E 3rd St,IL,62002,4.5,33
+Hing Wah Chop Suey,Wood River,862 N Wood River Ave,IL,62095,4,9
+El Gordito,Belleville,2630 Mascoutah Ave,IL,62221,3.5,105
+Copper Fire Bar & Eatery,Belleville,200 E Main St,IL,62220,3,107
+Easy,Belleville,"2524 Green Mount Commons Dr, Ste 120",IL,62221,3,35
+McDonald's,Edwardsville,1704 Troy Rd,IL,62025,1.5,24
+Valentine's Restaurant,Freeburg,205 S State St,IL,62243,4,30
+Hy-Ho Cafe,Belleville,20 S Belt W,IL,62220,3,5
+Cafe Agape Express,Collinsville,703 St Louis Rd,IL,62234,3,6
+Village Bistro,Maryville,2922 N Center St,IL,62062,1.5,6
+157 West Diner,Collinsville,115 N Bluff Rd,IL,62234,2.5,13
+White Castle,Belleville,1141 N Green Mount Rd,IL,62221,2.5,33
+Lottie's Cafe,Collinsville,"1099 Belt Line Rd, Ste D",IL,62234,4,14
+Kyoto Sushi Steakhouse,Edwardsville,"441 S State Rte 157, Ste 103",IL,62025,4,67
+Imo's Pizza,Granite City,3361 Fehling Rd,IL,62040,3,21
+Fazoli's,Edwardsville,"6663 Edwardsville Crossing Dr, Ste A",IL,62025,3,18
+Golden Oak,Swansea,4519 N Illinois St,IL,62226,4.5,68
+China Star Restaurant,East Alton,"624 Berkshire Blvd, Ste B",IL,62024,3,15
+Primo's Italian Garage & Catering,Edwardsville,2110 Troy Rd,IL,62025,3,10
+Mac's Downtown,Alton,315 Belle St,IL,62002,3,62
+Jersey Mike's Subs,Shiloh,3284 Greenmount Crossing Dr,IL,62269,3.5,51
+Dairy Queen Grill & Chill,Edwardsville,400 S Buchanan St,IL,62025,2.5,10
+Firehouse Subs,Alton,317J Homer Adams Pkwy,IL,62002,4,12
+Red Lobster,Alton,170 E Beltline Pkwy,IL,62002,2.5,31
+McDonald's,Collinsville,520 Ramada Blvd,IL,62234,2,10
+Coffee with Christ,Belleville,6 Wade Square,IL,62221,4.5,12
+QDOBA Mexican Eats,Edwardsville,"2100 Troy Rd, Ste 5",IL,62025,2,34
+Captain D's,Cahokia,1517 Camp Jackson Rd,IL,62206,3.5,7
+The Mansion,O'Fallon,1680 Mansion Way,IL,62269,3.5,68
+Captain D's,Fairview Heights,6004 N Illinois St,IL,62208,1.5,10
+Eckert's Country Store & Farms,Belleville,951 S Green Mount Rd,IL,62220,4,401
+Belleville Fish and Chicken,Belleville,3 Wade Sq,IL,62221,4,16
+Taco Bell,Granite City,2167 Madison Ave,IL,62040,1.5,5
+Woody'z Pub & Grill,Caseyville,100 S Long St,IL,62232,4.5,5
+Popeyes Louisiana Kitchen,Alton,2390 Homer M Adams Pkwy,IL,62002,2.5,23
+Subway,Collinsville,413 Belt Line Rd,IL,62234,2.5,9
+Burger King,Alton,1902 Homer Adams Pkwy,IL,62002,2.5,9
+Ron's Lounge,Lebanon,228 W Saint Louis St,IL,62254,3.5,6
+KFC,Cahokia,1691 Camp Jackson Rd,IL,62206,2.5,6
+Cracker Barrel Old Country Store,Troy,2001 Formosa Rd,IL,62294,3.5,65
+17th Street Bar & Grill,O'Fallon,1711 W Hwy 50,IL,62269,3,51
+Fletcher's Kitchen and Tap,Belleville,6101 W Main St,IL,62223,4,77
+The Lantern BLE,Lebanon,222 W St Louis St,IL,62254,4.5,8
+China Star,Columbia,1240 Columbia Ctr,IL,62236,3.5,16
+Old Herald Brewery & Distillery,Collinsville,115 E Clay St,IL,62234,4,107
+Olympika Bar & Grill,Swansea,127 N Belt E,IL,62226,2.5,32
+Good Times Saloon,Dupo,200 N Main St,IL,62239,3,11
+KFC,Belleville,4914 W Main St,IL,62226,2,7
+KFC,Glen Carbon,3202 S State Route 159,IL,62034,2.5,15
+North Main Diner,Edwardsville,146 N Main St,IL,62025,3.5,31
+Arby's,O Fallon,3180 Green Mount Crossing Dr,IL,62269,3,14
+IHOP,Belleville,601 Carlyle Ave,IL,62221,2.5,15
+10th Street Baking,Belleville,1021 W Main St,IL,62220,4,7
+Golden Corral Buffet & Grill,Collinsville,1079 Collinsville Crossing,IL,62234,1.5,23
+Shogun Japanese Steakhouse,Fairview Heights,314 Fountains Pkwy,IL,62208,3,200
+Amarillo Tex's Steakhous & Saloon,Alton,180 E Ctr Dr,IL,62002,2.5,13
+Subway,Edwardsville,"108 S Buchanan St, Unit C",IL,62025,2.5,5
+Taco Bell,O Fallon,1403 W US Highway 50,IL,62269,2,18
+WangGang Asian Eats N Beats,Edwardsville,4 Club Centre Dr,IL,62025,3.5,35
+Dairy Queen Grill & Chill,Belleville,1776 Lebanon Ave,IL,62221,4.5,5
+Jack in the Box,Glen Carbon,31 Junction Dr,IL,62034,2.5,11
+Papa Murphy's,Swansea,2691 North Illinois Street,IL,62226,2.5,7
+Merz on Main,Columbia,210 S Main St,IL,62236,3.5,14
+Shangri-La,Edwardsville,1039 Century Dr,IL,62025,4,42
+AJs Smashed and Smoked,Belleville,6980 W Main St,IL,62223,4,5
+Sonic Drive-In,Collinsville,1402 Vandalia,IL,62234,3.5,5
+Zapp Thai Noodle & Market,O'Fallon,1407 W US 50,IL,62269,4,141
+Seven Belleville,Belleville,7 S High St,IL,62220,3.5,124
+Mama Gustos Pizzeria,Lebanon,115 W Saint Louis St,IL,62254,3,29
+Rally's,Belleville,4527 W Main St,IL,62226,2,11
+Swansea Family Restaurant,Swansea,4421 W Main St,IL,62226,3,19
+Hopskeller Brewing,Waterloo,116 E 3rd St,IL,62298,4.5,57
+Taps N Corks,Belleville,22 Mascoutah Ave,IL,62220,3,5
+Grace Manor Restaurant,Edwardsville,1801 N Main St,IL,62025,3,11
+Bean Tree Cafe,Waterloo,219 S Main,IL,62298,4.5,54
+Mama Mia’s Italian Restaurant,Wood River,48 W Edwardsville Rd,IL,62095,3.5,15
+White Castle,Collinsville,3 Eastport Plaza Dr,IL,62234,2.5,28
+Great Wall Chinese Buffet,Granite City,3708 Nameoki Rd,IL,62040,2.5,19
+Jimmy The Greek's,Alton,1856 E Broadway,IL,62002,3,33
+Sawmill BBQ,Cahokia,4060 Mississippi Ave,IL,62206,4.5,89
+Jimmy John's,Belleville,100 E Main St,IL,62226,3,7
+Domino's Pizza,Cahokia,"1302 Camp Jackson Rd, # 1",IL,62206,1.5,7
+Lee's Famous Recipie Chicken,Belleville,1652 Carlyle Ave,IL,62221,3,26
+4204 Main Street Brewing Company,Belleville,4204 W Main St,IL,62226,3.5,260
+Dairy Queen Grill & Chill,Troy,810 Edwardsville Rd,IL,62294,2,16
+Li Chinese Reaturant,Swansea,2659 N Illinois St,IL,62226,3,27
+Mariachi's,Millstadt,717 West Washington,IL,62260,4,16
+Smokin K's BBQ & More,Millstadt,548 E Washington,IL,62260,3.5,34
+Tavern On Main,Belleville,301 E Main St,IL,62220,4,134
+Little Caesars,Glen Carbon,3801 Rt 159,IL,62034,1,12
+Panda Express,O'Fallon,1504 W U.S. 50,IL,62269,2.5,54
+Silver Creek Saloon & Grill,Belleville,2520 Mascoutah Ave,IL,62220,3,71
+Taco Bell,Caseyville,2413 N 89th St,IL,62232,1.5,13
+Our House Cafe,Columbia,125 N Rapp Ave,IL,62236,4,15
+Ruby Tuesday,Collinsville,604 N Bluff Road,IL,62234,3,33
+Grandpa Luke's Deli & Coffee House,Millstadt,741 W Washington,IL,62260,3.5,10
+Sala Thai Cuisine,Belleville,1229 Lebanon Ave,IL,62221,4,71
+Rapid Fire Sandwiches & Treats,Collinsville,115 N Bluff Rd,IL,62234,3.5,6
+Fletcher's Kitchen & Tap,Swansea,1524 Clinton Hills Pkwy,IL,62226,3,13
+Bottom's Up Sports Bar & Grill,Alton,2204 Fosterburg Rd,IL,62002,3.5,5
+Applebee's Grill + Bar,Alton,319 Homer Adams Pkwy,IL,62002,3,17
+Jimmy John's,Alton,"1702 Homer Adams Pkwy, Ste A",IL,62002,1.5,7
+Wendy's,Belleville,2600 Green Mount Commons Dr.,IL,62221,2.5,17
+Brewers Bar & Grill,Lebanon,227 W St Louis St,IL,62254,3,6
+Coffee Mill Diner,Smithton,101 N Main St,IL,62285,4.5,6
+The National Shrine of Our Lady of the Snows,Belleville,442 S Demazenod Dr,IL,62223,3.5,27
+Casa Maria Mexican Grill,Belleville,100 N High St,IL,62220,4.5,161
+Pizza Man,Troy,611 Edwardsville Rd,IL,62294,2,9
+Wingstop,O'Fallon,"1118 Merchants Way, Ste 110",IL,62269,2,17
+Great Rivers Tap & Grill,Alton,3559-B College Ave,IL,62002,3.5,24
+Joe & Onie's,Belleville,18 E Main St,IL,62220,4.5,11
+Petri Cafe,Granite City,1416 20th St,IL,62040,5,11
+Erato Wine Bar & Restaurant,Edwardsville,126 N. Main,IL,62025,4.5,23
+La Parrilla Mexican,O Fallon,1333 Central Park Dr,IL,62269,2.5,29
+Chuck E. Cheese,Fairview Heights,10850 Lincoln Trl,IL,62208,2,9
+Diamond Cabaret,Sauget,1401 Mississippi Ave,IL,62201,2.5,13
+J.J. Thermo's Bar and Grill,East Alton,17 Eastgate Plz,IL,62024,3.5,30
+The Tapestry Room,Lebanon,127 W St Louis St,IL,62254,3.5,6
+Bandana's Bar-B-Q - Fairview Heights,Fairview Heights,4608 N Illinois St,IL,62208,3.5,51
+Taco Bell,Belleville,760 Carlyle Ave,IL,62221,2,33
+Penn Station,Collinsville,1128 Collinsville Crossing Blvd,IL,62234,2,12
+Bobby's Frozen Custard,Maryville,RR 159,IL,62062,4.5,134
+Wing China,Belleville,9 Bellevue Park Plz,IL,62226,4,8
+Jack in the Box,Swansea,1800 N Illinois St,IL,62226,1,17
+Burger King,Bethalto,501 N Bellwood,IL,62010,3,7
+Sbarro Restaurant,Fairview Heights,277 Saint Clair Sq,IL,62208,2.5,11
+Garden Gate Tea Room,Granite City,839 Niedringhaus Ave,IL,62040,4.5,11
+Burger King,Fairview Heights,401 Lincoln Hwy,IL,62208,2.5,8
+QuikTrip,Bethalto,605 W Bethalto Dr,IL,62010,4.5,6
+54th Street Grill & Bar,Shiloh,3140 Green Mount Crossing Dr,IL,62269,3.5,142
+Bennie's Pizza Pub,Belleville,113 E Main St,IL,62220,4.5,47
+Buffalo Wild Wings,O'Fallon,1424 Central Park Cir,IL,62269,2,115
+Imo's Pizza,Waterloo,654 N Market St,IL,62298,3.5,15
+Casa Romero,East Alton,521 E Airline Dr,IL,62024,4.5,22
+Texas Roadhouse,Shiloh,1412 Central Park Cir,IL,62269,3.5,109
+Denny's,Pontoon Beach,4111 Timberlake Dr,IL,62040,2,25
+Domino's Pizza,Maryville,4996 State Rte 159,IL,62062,1.5,9
+Mr Chiu Restaurant,Columbia,1260 Columbia Ctr,IL,62236,3,7
+Teaspoons Cafe,Edwardsville,2125 S Rt 157,IL,62025,4,96
+Dr Jazz Soda Fountain & Grille,Lebanon,230 W Saint Louis St,IL,62254,4,30
+El Gallo Jiros,East Saint Louis,5606 Collinsville Rd,IL,62201,4.5,6
+Food Lovers Grill,East St Louis,517 Martin Luther King Dr,IL,62201,4.5,7
+Subliminal Grilled Subs & More,Waterloo,141 S Main St,IL,62298,4.5,7
+Subway,Troy,525 Troy Plz,IL,62294,1.5,11
+Moore's Restaurant,Belleville,7309 Old Saint Louis Rd,IL,62223,3.5,22
+Township Grocer,Edwardsville,102 N Main St,IL,62025,4,11
+Mi Tierra Bonita,Fairmont City,3203 Collinsville Rd,IL,62201,4.5,47
+Burger King,Collinsville,2022 Belt Line Rd,IL,62234,2,5
+Koke's Tavern,East Saint Louis,4419 Cookson Rd,IL,62201,4.5,6
+Baja Cali,Belleville,100 N High St,IL,62220,4.5,12
+Los Tres Potrillos,Millstadt,548 East Washington St,IL,62260,5,5
+Inn Between,Granite City,5200 Maryville Rd,IL,62040,4.5,5
+Hardee's,Glen Carbon,4207 S Il-159,IL,62034,2.5,9
+McDonald's,East Alton,102 Niagara Ave,IL,62024,3,5
+Park Grill,Granite City,2800 E 23rd St,IL,62040,4.5,16
+Joe Boccardi's Ristorante,Columbia,117 S Main St,IL,62236,3.5,38
+Olga's Kitchen,Alton,206 Alton Square,IL,62002,4,47
+Tasty's  Chicago Grill,Belleville,4425 W Main St,IL,62226,3.5,29
+Jefferson's Restaurant,Belleville,6980 W Main St,IL,62223,3.5,61
+Casa Maria Express,Scott Air Force Base,817 Seibert Rd,IL,62225,5,8
+Mokka Kaffeehaus,Columbia,180 Columbia Ctr,IL,62236,3,6
+Fire-n-Smoke Wood River,Wood River,1800 Vaughn Rd,IL,62095,4,24
+Chipotle Mexican Grill,Fairview Heights,6415 N Illinois St,IL,62208,2.5,55
+Classic K Hamburgers,Cahokia,1613 Camp Jackson Rd,IL,62206,4,15
+Bowl Haven,Alton,3003 Washington Ave,IL,62002,4,5
+Granite City Driver Services DMV,Granite City,1810 Edison Ave,IL,62040,4.5,7
+Taco Bell,Columbia,200 Columbia Center,IL,62236,1.5,5
+Pizza World,Belleville,651 Carlyle Ave,IL,62221,3,24
+Farmers Inn,Millstadt,7157 Hwy 158,IL,62260,3.5,8
+Little Caesars Pizza,Collinsville,1042 COLLINSVILLE CROSSING BLVD,IL,62234,1.5,5
+Dewey's Pizza,O'fallon,425 Regency Park,IL,62269,4.5,136
+Joe's Crab Shack,Fairview Heights,51 Ludwig Dr,IL,62208,3,65
+Cunetto's Corner Cucina,Edwardsville,1114 N Main St,IL,62025,3,17
+Fiona's Family Restaurant,Wood River,595 E Edwardsville Rd,IL,62095,3.5,29
+Seafood By Crushed Velvet,Belleville,121 E Main St,IL,62220,4,38
+Mi Jalapeno,O'Fallon,"1333 Central Park Dr, Ste 115",IL,62269,4,10
+Foundry Public House,Edwardsville,126 N Main St,IL,62025,3.5,117
+"Rachel's Garden, Inc",Belleville,3917 Frank Scott Pkwy W,IL,62223,3.5,8
+Imo's Pizza,Columbia,1450 N Evergreen Ln,IL,62236,3.5,11
+St. Louis Bread,Fairview Heights,5917 N Illinois St,IL,62208,3,36
+Catrina's,Edwardsville,1027 Century Dr,IL,62025,4,105
+The Happy Cow,Caseyville,601 N Main St,IL,62232,4,17
+Lone Star Steakhouse & Saloon,O Fallon,1310 Central Park Dr,IL,62269,2.5,9
+St. Louis Bread,Edwardsville,6683 Edwardsville Xing,IL,62025,3,53
+Arby's,Collinsville,4 Eastport Plaza Dr,IL,62234,3.5,5
+Cheddar's Scratch Kitchen,Fairview Heights,6600 N Illinois St,IL,62208,2.5,187
+Subway,Belleville,833 Siebert Rd,IL,62225,2.5,7
+The Edge,Belleville,701 S Belt W,IL,62220,3.5,73
+Alfonzo's Pizzeria,Troy,611 Edwardsville Rd,IL,62294,4,43
+Zapata's Mexican Restaurant,Swansea,2615 N Illinois St,IL,62226,3,22
+Washy's Pub,Columbia,210 S Main St,IL,62236,3.5,16
+El Maguey,Edwardsville,1534 Troy Rd,IL,62025,3.5,41
+Penn Station East Coast Subs,Edwardsville,231 Harvard Dr,IL,62025,3.5,17
+Gruchala's,Columbia,210 S Main St,IL,62236,4,9
+Domino's Pizza,Fairview Heights,5519 N Illinois St,IL,62208,2,10
+China Lin Restaurant,Collinsville,501 Belt Line Rd,IL,62234,2.5,15
+White Castle,Alton,2998 Homer Adams Pkwy,IL,62002,3.5,7
+Imo's Pizza,Fairview Heights,10791 Lincoln Trl,IL,62208,2.5,22
+Steak ’n Shake,Belleville,4320 W Main,IL,62226,1,38
+Sugarfire,O'Fallon,1425 N Green Mount Rd,IL,62269,3.5,125
+First Watch,O'Fallon,455-D Regency Park,IL,62269,3,65
+Crushed Red,Edwardsville,222 E Park St,IL,62025,4,33
+Mungo's,Fairview Heights,525 Lincoln Hwy,IL,62208,3,22
+Unch's Bar And Grill,Cahokia,103 Water St,IL,62206,4,7
+Sunrise Family Restaraunt,Belleville,6401 W Main St,IL,62223,3,7
+Goshen Coffee,Edwardsville,"6120 Shoger Dr, Ste A",IL,62025,4.5,23
+Domino's Pizza,Caseyville,2190 Patricia Ct,IL,62232,2.5,5
+Korean Bobsang,O'Fallon,108 Regency Park Dr,IL,62269,4,42
+Jack in the Box,Granite City,3330 Nameoki Rd,IL,62040,2,10
+Pizza Hut,Cahokia,1230 Camp Jackson Rd,IL,62206,1.5,6
+Five Guys,Fairview Heights,"6570 N Illinois St, Unit 100",IL,62208,3.5,72
+Steak ’n Shake,Wood River,1870 Memorial Ln,IL,62095,1.5,28
+Chico's Bar & Grill,Wood River,575 S 6th St,IL,62095,4,5
+Pizza Hut,Mascoutah,806 W Main St,IL,62258,2,9
+Arby's,Belleville,5790 Belleville Crossing St,IL,62226,2.5,7
+Olympic Restaurant,Belleville,4508 W Main St,IL,62226,2.5,6
+McDonald's,Troy,103 Mcdonald's Ln,IL,62294,2.5,29
+So'Pasta,Edwardsville,1031 Century Dr,IL,62025,2,5
+Chick-fil-A,Fairview Heights,6203 N Illinois St,IL,62208,4.5,78
+Hardee's,Wood River,1099 Edwardsville Rd,IL,62095,2.5,5
+Callahan's Corner,Troy,914 Edwardsville Rd,IL,62294,3,10
+Applebee's Grill + Bar,Granite City,3551 Nameoki Rd,IL,62040,2.5,20
+Peel Wood Fired Pizza,Edwardsville,921 S Arbor Vitae,IL,62025,4.5,357
+Imo's Pizza,O Fallon,521 W US Hwy 50,IL,62269,2,25
+Zapata's Mexican Restaurant,Fairview Heights,4660 N Illinois St,IL,62208,3,46
+3 De Mayo,Pontoon Beach,3710 ILLINOIS-111,IL,62040,4.5,14
+Chava's Mexican Restaurant,Edwardsville,217 E Vandalia St,IL,62025,3.5,98
+Chinese Dragon,Smithton,510 S Main St,IL,62285,4.5,5
+Shrine Restaurant and Banquet Center,Belleville,442 S Demazenod Dr,IL,62223,3.5,13
+NickyG's Italian Eats,Alton,1801 State St,IL,62002,4.5,10
+Little Caesars Pizza,Belleville,1050 Carlyle Ave,IL,62221,3,12
+Crazy Bowls & Wraps,Edwardsville,6679 Edwardsville Crossing Dr,IL,62025,4,40
+McDonald's,O'Fallon,1610 W Hwy 50,IL,62269,1.5,22
+Chili's,Fairview Heights,6311 N Illinois St,IL,62208,3,71
+Shiloh Valley Grill,O Fallon,430 S Main St,IL,62269,4.5,5
+Long John Silver's,Wood River,1224 East Edwardsville Rd,IL,62095,4,6
+Gary's Restaurant,Freeburg,405 S State St,IL,62243,3.5,9
+Tim & Joe's Tavern,Belleville,"6500 W Main St, Ste 26",IL,62223,3.5,9
+Wingstop,Granite City,3405 Nameoki Rd,IL,62040,3,6
+Subway,Millstadt,101 W Washington,IL,62260,1.5,6
+McDonald's,Granite City,2045 Madison Ave,IL,62040,1.5,7
+House of Chiu,Belleville,3605 N Belt W,IL,62226,4,20
+Luna Cafe,Granite City,201 E Chain Of Rocks Rd,IL,62040,2.5,7
+Catch 22,Belleville,22 Mascoutah Ave,IL,62220,2.5,15
+Korean Garden Grill,Belleville,2346 Mascoutah Ave,IL,62220,4.5,11
+Ruby Tuesday,Fairview Heights,6565 North Illinois Avenue,IL,62208,2.5,46
+Applebee's Grill + Bar,Swansea,2624 N Illinois St,IL,62226,3,33
+Bull & Bear Grill & Bar,Edwardsville,1071 State Rte 157,IL,62025,3,55
+La Fonda,Edwardsville,2310 Troy Rd,IL,62025,3.5,64
+Santino’s Steak and Pasta House,Alton,180 E Center Dr,IL,62002,4,43
+Domino's Pizza,Edwardsville,120 E Vandalia St,IL,62025,2.5,10
+Foundry Cafe & Market,Lebanon,220 West Saint Louis St,IL,62254,4.5,17
+You Korean And Japanese Best Cuisine,O'Fallon,108 Regency Park,IL,62269,4.5,29
+Little Caesars Pizza,Alton,1601 Washington Ave,IL,62002,1.5,5
+Zapp Thai,Edwardsville,1500 Troy Rd,IL,62025,3.5,76
+Fast Eddie's Bon Air,Alton,1530 E 4th St,IL,62002,4,368
+Kumars Restaurant,Wood River,36 N Wood River Ave,IL,62095,4.5,6
+Hong Kong Chinese Restaurant,Lebanon,321 S Madison St,IL,62254,5,9
+Aunt Maggie's on Main,Columbia,230 N Main St,IL,62236,3.5,24
+Top Shooters,Columbia,531 Old State Rt 3,IL,62236,4,25
+McDonald's,Belleville,1153 N Green Mount Rd,IL,62221,1.5,36
+Kruta Collinsville Bakery,Collinsville,300 Saint Louis Rd,IL,62234,4.5,67
+Jefferson's Restaurant,Mascoutah,1300 W Main St,IL,62258,3.5,37
+Tequila Mexican Restaurant,Columbia,850,IL,62236,3.5,35
+Woody's Drive-In,Alton,110 W Homer M Adams Pkwy,IL,62002,4.5,15
+McDonald's,Edwardsville,6091 Center Grove Rd,IL,62025,1.5,24
+Red Apple Family Restaurant,Maryville,2625 N Center St,IL,62062,4,44
+Yo Toppings,Waterloo,624 N Market St,IL,62298,4.5,6
+Two Fat Guys,Troy,907 Edwardsville Rd,IL,62294,3.5,8
+Drake's - O’Fallon,O'Fallon,1160 Central Park Dr,IL,62269,3.5,74
+Papa Murphy's,Edwardsville,207 Harvard Dr,IL,62025,4,14
+Sushi Tatsu,Fairview Heights,5725 N Illinois St,IL,62208,4.5,179
+The Weingarten,Belleville,1780 E State Rt 15,IL,62221,4,30
+Uncle Linny's Family Restaurant,Granite City,4112 Pontoon Rd,IL,62040,3.5,56
+Steel City Smokehouse,Granite City,3 American Village,IL,62040,4.5,21
+Imo's Pizza,Belleville,4801 W Main St,IL,62226,2,25
+QDOBA Mexican Eats,Belleville,5880 Belleville Crossing St,IL,62226,3,14
+Papa John's Pizza,Belleville,"1630 Carlyle, Ste G",IL,62221,2,9
+The Pork Barrel,Cottage Hills,435 W MacArthur Dr,IL,62018,4,10
+Little Caesars Pizza,Fairview Heights,5201 N Illinois St,IL,62208,3.5,8
+Dragon Palace,O Fallon,"1 Southview Plz, Ste A",IL,62269,2.5,9
+Domino's Pizza,Columbia,1125 Columbia Ctr,IL,62236,2,6
+Applebee's Grill + Bar,Glen Carbon,3600 S State Route 159,IL,62034,3,28
+Who Dat's,Columbia,123 S Main St,IL,62236,4,65
+Hanley's Grille & Tap,Fairview Heights,315 St. Clair Sq,IL,62208,3.5,6
+Big Mama's Barbeque,Belleville,5110 N Belt W,IL,62226,3.5,12
+Lascelles Granite City,Granite City,1324 Niedringhaus Ave,IL,62040,4,48
+Lion's Choice,O'Fallon,450 Regency Park,IL,62269,3.5,28
+Rally's,Belleville,1105 South Illinois Street,IL,62220,2.5,7
+Young's Chop Suey,East Saint Louis,2221 State St,IL,62205,3,7
+Queen's Cuisine,Edwardsville,120 South Main St,IL,62025,5,14
+Hardee's,Godfrey,2720 Godfrey Rd,IL,62035,2,7
+Red Top Barbeque & Chili,Collinsville,605 Vandalia St,IL,62234,4,10
+Imos Pizza,Belleville,201 S Belt E,IL,62220,2,23
+Jack in the Box,Troy,830 Edwardsville Rd,IL,62294,2,37
+China King,Edwardsville,"1063 S State Rt 157, Ste 10",IL,62025,2,23
+Wasabi Sushi Bar,Edwardsville,100 S Buchanan St,IL,62025,3.5,87
+China Express,East Saint Louis,1669 Camp Jackson Rd,IL,62206,4,11
+Goldy's Chick - n - Mex,Wood River,1800 Vaughn Rd,IL,62095,3,10
+Northside Dairy Haven,Edwardsville,1902 N Main St,IL,62025,4,36
+Taco Bell,Edwardsville,1710 Troy Rd,IL,62025,3.5,13
+1st Street Lounge,O'Fallon,119 W 1st St,IL,62269,4.5,11
+Golden Corral Family Steakhouse,Alton,350 Homer Adams Pkwy,IL,62002,2.5,27
+Reifschneider's Grill & Grape,Columbia,608 N Main St,IL,62236,3.5,85
+Big Daddys - Edwardsville,Edwardsville,132 N Main St,IL,62025,2.5,28
+Princivalli's Cafe,Alton,602 E 3rd St,IL,62002,3.5,14
+Nettie B's,Belleville,8201 W Main St,IL,62223,4,6
+Lake House,Maryville,2822 N Center St,IL,62062,3.5,14
+Buffalo Wild Wings,Edwardsville,249 Harvard Dr,IL,62025,3,77
+Casablanca Cafe,Belleville,121 E Main,IL,62220,4,6
+Jimmy John's,O'Fallon,1171 N Green Mount Rd,IL,62269,3,19
+Refuge At The Hills,Lebanon,1015 Belleville St,IL,62254,4.5,5
+Hardee's,O Fallon,124 Hartman Ln,IL,62269,2,19
+Conways Catering & Deli,Maryville,2112 S Center St,IL,62062,4.5,8
+O'Charley's Restaurant & Bar,O'Fallon,1313 Central Park Dr,IL,62269,3,56
+State Street Market,Alton,208 State St,IL,62002,4.5,33
+Teriyaki Grill,O'Fallon,821 Seibert Rd,IL,62269,4.5,26
+Kelly's Butcher Shop & Deli,Troy,804 S Main St,IL,62294,4,20
+88 China,Granite City,3433 Nameoki Rd,IL,62040,4,68
+Pizza World,Granite City,1535 Johnson Rd,IL,62040,3,12
+KFC,Alton,2994 Homer Adams Pkwy,IL,62002,1.5,7
+Joe's Pizza and Pasta,Columbia,117 N Main St,IL,62236,4.5,11
+McDonald's,Bethalto,2 Plaza Dr,IL,62010,2.5,9
+Mungo's Italian Eatery,Collinsville,100 East Main St,IL,62234,4,124
+The Pasta House Co.,Fairview Heights,4660 N Illinois St,IL,62208,2.5,6
+Thip's Thai Cuisine,O'Fallon,701 W U S 50,IL,62269,4,86
+McAlister's Deli,Edwardsville,312 Great Place Dr,IL,62025,3.5,21
+Huddle Bar & Grill,Caseyville,"1101 Caseyville Rd, Ste J",IL,62232,3.5,59
+Old Towne Tavern,Glen Carbon,155 S Main St,IL,62034,4,5
+Marco's Express,Belleville,1401 Lebanon Ave,IL,62221,4,33
+Texas Roadhouse,Edwardsville,6640 Edwardsville Crossing Dr,IL,62025,3.5,86
+Jacobsmeyer's Tavern,Granite City,2401 Edwards St,IL,62040,3.5,11
+Villa Marie Winery & Banquet Center,Maryville,6633 E Main St,IL,62062,2.5,43
+McAlister's Deli,Shiloh,3240 Green Mount Crossing Dr,IL,62269,3,74
+Lilly Gyros,Fairview Heights,10600 Lincoln Trl,IL,62208,4.5,163
+The Chuck Wagon,Fairview Heights,10212 Lincoln Trail,IL,62208,4,71
+Pizza Hut,Belleville,"5720 N Belt W, Ste 38",IL,62226,2,6
+Los Tres Amigos,Wood River,1822 Vaughn Rd,IL,62095,3.5,12
+Steak ’n Shake,Fairview Heights,10860 Lincoln Trl,IL,62208,1.5,52
+Miscellanea House,Belleville,1111 W Main  St,IL,62220,4.5,24
+Red'z Rib Shack,Edwardsville,1501 Troy Rd,IL,62025,3,5
+Post Commons,Alton,300 Alby St,IL,62002,4.5,59
+D.S. Vespers Sports Pub and Eatery,Belleville,701 S Belt W,IL,62220,3,33
+Crazy Bowls & Wraps,Shiloh,4190 Green Mount Crossing Dr,IL,62269,4,66
+Main Street Cafe,Belleville,1601 W Main St,IL,62220,4,82
+Spring Garden Family Restaurant,Collinsville,921 Vandalia St,IL,62234,4,17
+Little Mexico,Alton,"102 W 9th St, Ste 106",IL,62002,3,24
+Taco Bell,Alton,620 E. Landmarks Blvd.,IL,62002,1,16
+Ragin Cajun Piano Bar,Alton,210 W 3rd St,IL,62002,3.5,27
+Subway,Bellville,"3901 N Belt W, Ste B",IL,62226,1.5,6
+Frederico's,Waterloo,114 N Main St,IL,62298,4,12
+Boogie's Restaurant and Bar,Maryville,2082 Vadalabene Dr,IL,62062,3.5,47
+Pizza Hut,Godfrey,3030 Godfrey Rd,IL,62035,1.5,5
+McDonald's,Alton,717 E Broadway,IL,62002,1.5,16
+300 State,Alton,300 State St,IL,62002,4,12
+Flamentco's the Place,O'fallon,711 W US Hwy 50,IL,62269,4,130
+Applebee's Grill + Bar,Collinsville,610 N Bluff Rd,IL,62234,3,26
+Pizza Hut,O Fallon,"729 W Highway 50, Ste C",IL,62269,1.5,24
+Big Mama's Bbq Express,East St. Louis,5900 St Clair Ave,IL,62203,4,57
+Taco Bell,Collinsville,1001 Belt Line Rd.,IL,62234,1.5,19
+Schiappa's Restaurant,O'Fallon,1411 W Hwy 50,IL,62269,3,22
+Ravanelli's Restaurant & Carry Out,Granite City,3 American Vlg,IL,62040,4,35
+Los Tres Amigos,Edwardsville,1011 Century Dr,IL,62025,4,18
+Uncle Linny's Food & Brews,Granite City,3901 Pontoon Rd,IL,62040,4,8
+Social Gastropub,Edwardsville,2 157 Center,IL,62025,3.5,131
+Subway,Fairview Heights,620 Lincoln Hwy,IL,62208,3,5
+Steak ’n Shake,O'Fallon,109 Regency Park,IL,62269,2,72
+JFires' Market Bistro,Waterloo,725 N Market St,IL,62298,3,47
+Mini Corral Hamburgers,Alton,1500 Main St,IL,62002,4.5,60
+Cracker Barrel Old Country Store,Caseyville,2421 Old Country Inn Dr,IL,62232,3,67
+Las 3 Marias,Lebanon,501 S Madison St,IL,62254,3.5,5
+Little Caesars Pizza,O Fallon,3254 Green Mount Crossing Dr,IL,62269,3,6
+Hardee's,O Fallon,110 E Hwy 50,IL,62269,2.5,13
+Sip & Chew Express,Belleville,124 W Main St,IL,62220,4.5,18
+Signature Tap House,Fairview Heights,51 Lincoln Hwy,IL,62208,3,44
+Arby's,Troy,Pilot Travel Ctr,IL,62294,2,5
+Arby's,Edwardsville,1800 Troy Rd,IL,62025,2.5,7
+Joe's Asian Cuisine,Scott Air Force Base,"2300 E Dr, Bldg 3600",IL,62225,4,8
+Gulf Shores Restaurant & Grill,Edwardsville,215 Harvard Dr,IL,62025,3,168
+Jimmy John's,Belleville,"2524 Greenmount Commons Dr, Ste 100",IL,62221,3,19
+G-B Grill,Alton,1858 E Broadway,IL,62002,4.5,29
+McDonald's,Fairview Heights,6300 N Illinois St,IL,62208,1.5,18
+Waffle House,Granite City,3244 W Chain Of Rocks Rd,IL,62040,4,16
+Righteous Pig BBQ,Belleville,124 E Main St,IL,62220,4,74
+Ramon's El Dorado,Collinsville,1711 Saint Louis Rd,IL,62234,3.5,40
+Geo's Wings & More,Belleville,4307 W Main St,IL,62226,3.5,34
+Imo's Pizza,Collinsville,1600 N Keebler Ave,IL,62234,3,25
+El Macho Taco,Edwardsville,1017 Century Dr,IL,62025,4.5,38
+China Town Restaurant,Belleville,52 Carlyle Plaza Dr,IL,62221,3.5,13
+Subway,Edwardsville,"4 Club Centre Shpg Ctr, Ste J",IL,62025,2,5
+Chubby's Warehouse Bar & Grill,Alton,1022 E Broadway,IL,62002,3.5,14
+Loomy's,Troy,9070 State Rt 162,IL,62294,4,22
+Dairy Queen,Glen Carbon,3905 S State Rte 159,IL,62034,1.5,9
+Show-Me's,Fairview Heights,200 Lincoln Hwy,IL,62208,3,31
+Fond,Edwardsville,106 N Main St,IL,62025,3.5,13
+Pizza Hut,Granite City,3801 Nameoki Rd,IL,62040,2.5,7
+Mi Jalapeno,Smithton,500 S Main,IL,62285,4,16
+Rib City,Alton,502-516 E Delmar Ave,IL,62002,3.5,8
+Casa Romero,Waterloo,512 S Market St,IL,62298,4.5,75
+BEAST Southern Kitchen & BBQ,Columbia,1280 Columbia Ctr,IL,62236,4.5,18
+QuikTrip,Edwardsville,2490 Troy Rd,IL,62025,4.5,13
+Denny's,Pontoon Beach,1310 E Chain Of Rocks Rd,IL,62040,2,15
+Osaka Sushi Cafe,Granite City,3473 Nameoki Rd,IL,62040,4.5,52
+Wise Guys Gyros and Italian Beef,Godfrey,3200 Godfrey Rd,IL,62035,3.5,17
+Popeyes Louisiana Kitchen,Belleville,5750 Belleville Crossing St,IL,62226,1.5,31
+Hi Tokyo,Belleville,1628 Carlyle Ave,IL,62221,4.5,48
+Chick-fil-A,Belleville,2532 Green Mt Commons,IL,62221,4,37
+Oatman House,Collinsville,501 E Main St,IL,62234,3.5,5
+Taj Indian Cuisine,Edwardsville,4 Club Centre Ct,IL,62025,3.5,74
+Edgewild,Edwardsville,1071 State Route 157,IL,62025,4,72
+Marco's Pizza,Granite City,3102 Nameoki Rd,IL,62040,3.5,5
+O’bar Cafe,Edwardsville,"1063 S State Rte 157, Ste 12",IL,62025,4,5
+The Juicy Peanut Bar & Grill,Mascoutah,724 W Main St,IL,62258,4,23
+Subway,O'Fallon,"310 E Hwy 50, Ste 3",IL,62269,1.5,6
+El Potro,Troy,614 Edwardsville Rd,IL,62294,3.5,26
+Burger King,Scott Afb,1649 W Birchard St,IL,62222,3,11
+54th Street Grill & Bar,Glen Carbon,6660 Edwardsville Crossing Dr,IL,62034,3.5,135
+Taco Bell,Fairview Heights,6599 N Illinois St.,IL,62208,3,12
+Roper's Regal Beagle,Godfrey,3043 Godfrey Rd,IL,62035,3,76
+McDonald's,Belleville,4422 W Main St,IL,62223,1.5,15
+Bella Milano,O'Fallon,455 Regency Park,IL,62269,3.5,160
+Tequila's Mexican Restaurant,Freeburg,341 Market Place Dr,IL,62243,4,20
+Carisilo's Mexican Restaurant,Collinsville,1978 Vandalia St,IL,62234,4,65
+Jimmy John's,Granite City,3142 Nameoki Rd,IL,62040,2.5,9
+The Franchise Sports Bar & Grill,Wood River,601 E Edwardsville Rd,IL,62095,3.5,16
+Hardee's,Belleville,2516 Green Mount Commons Dr,IL,62221,3,7
+First Stop Bake Shop,Rosewood Heights,611 E Airline Dr,IL,62024,5,23
+China Hing,Shiloh,"3224 Green Mount Crossing Dr, Ste O 39",IL,62269,3,38
+County Seat Cafe,Edwardsville,316 S Buchanan St,IL,62025,2.5,40
+KFC,Alton,620 E Landmarks Blvd,IL,62002,2,9
+Panda Express,Fairview Heights,134 St Clair Square,IL,62208,3,16
+Rocket Bowls,Edwardsville,,IL,62025,4.5,12
+Papa John's Pizza,Wood River,668 Wesley Drive,IL,62095,2,6
+Hardee's,Collinsville,519 Belt Line Rd,IL,62234,2.5,5
+Subway,Maryville,"Shepard Plz, Ste 2",IL,62062,2.5,10
+BEAST Craft BBQ,Belleville,20 S Belt W,IL,62220,4.5,583
+The Pie Pantry,Belleville,"310 E Main St, Ste 1",IL,62220,3.5,17
+Wasabi Sushi Bar,Fairview Heights,6530 N Illinois St,IL,62208,3.5,138
+Alex's Pizza,O'Fallon,711 W US 50,IL,62269,5,34
+IHOP,O' Fallon,1028 W Hwy 50,IL,62269,2.5,59
+Dairy Queen Grill & Chill,Waterloo,175 Marketplace Dr,IL,62298,2,5
+Reifschneider's Grill & Grape,Freeburg,700 N State St,IL,62243,4,62
+The Sweet Tooth,Belleville,4004 W Main St,IL,62226,3.5,8
+Annbriar Golf Course,Waterloo,1524 Birdie Ln,IL,62298,4,9
+Edley’s,Glen Carbon,2392 S State Rt 157,IL,62034,3,34
+White Castle,Fairview Hts.,10849 Lincoln Trl,IL,62208,2.5,24
+Andria's Steakhouse,O Fallon,6805 Old Collinsville Rd,IL,62269,4,103
+Dairy Queen Grill & Chill,O Fallon,300 E Highway 50,IL,62269,3.5,7
+Wendy's,Edwardsville,6104 Center Grove Rd,IL,62025,1.5,19
+Taco Bell,Granite City,1261 Engineer Rd,IL,62040,2.5,5
+Pizza Hut,Belleville,652 Carlyle Ave,IL,62221,1.5,24
+Neruda Restaurant,Edwardsville,4 Club Centre Ct,IL,62025,4,6
+Ravanelli's,Collinsville,26 Collinsport Dr,IL,62234,3.5,115
+McDonald's,Wood River,1156 Vaughn Rd,IL,62095,2.5,7
+Denny's,Belleville,1130 S Illinois St,IL,62220,2.5,33
+Burger King,Columbia,350 Columbia Ctr,IL,62236,1.5,8
+Marcos On Main,Belleville,6401 W Main St,IL,62223,3.5,13
+OBAR,Edwardsville,"1516 Troy Rd, Unit B, Montclaire Shopping Center",IL,62025,3.5,25
+Schiappa's,O Fallon,1050 Eastgate Dr,IL,62269,3,9
+Sgt Pepper's Cafe,Edwardsville,218 N Main St,IL,62025,3.5,79
+Ginger Buffet and Grill,Fairview Heights,"53 Ludwig Dr, Ste 102",IL,62208,3,35
+White Cottage,Belleville,102 Lebanon Ave,IL,62220,4.5,61
+Village Inn Pancake House,Alton,2657 College Ave,IL,62002,4,24
+Clara B's Kitchen Table,Swansea,,IL,62220,5,5
+Arby's,Godfrey,5509 Godfrey Rd,IL,62035,1.5,6
+Bindy's,Granite City,3705 Nameoki Rd,IL,62040,3.5,12
+Chinese Buffet,Alton,2610 Homer M Adams Pkwy,IL,62002,3.5,34
+Tres Caminos Pontoon Beach,Granite City,77 Chouteau Trace Pkwy,IL,62040,4,11
+Uncle Huffy's Barbecue,Lebanon,122 E Saint Louis St,IL,62254,4,6
+Pantera's Pizza,Edwardsville,1522 Troy Rd,IL,62025,4,48
+Burger King,Troy,708 Edwardsville Rd,IL,62294,2.5,6
+Sonic Drive-In,Columbia,1200 Admiral Weinel Blvd,IL,62236,1.5,12
+Moussalli’s Prime,Edwardsville,7415 State Route 143,IL,62025,4.5,58
+Domino's Pizza,Belleville,1900 N Belt E,IL,62221,2,11
+C And C Food For Your Soul,Belleville,1926 West Main St,IL,62226,5,12
+Subway,O'Fallon,"1222 Central Park Dr, Ste 106",IL,62269,3,6
+Little Italy,Fairview Heights,130 Ludwig Dr,IL,62208,2.5,5
+Tienda El Ranchito,Fairmont City,2565 N 32nd St,IL,62201,4,71
+Best Buffet,Wood River,615 Wesley Dr,IL,62095,3,12
+Who Dat's,Collinsville,118 E Main St,IL,62234,3.5,92
+Coal Miners,Glen Carbon,123 Glen Crossing Rd,IL,62034,3,13
+Taj Indian Cuisine,Edwardsville,138 N Main St,IL,62025,4.5,34
+Robust Edwardsville,Edwardsville,126 N Main St,IL,62025,3.5,19
+Firehouse Subs,Granite City,3214 Nameoki Rd,IL,62040,3.5,12
+Huddle House,Mascoutah,9810 Perrin Road,IL,62258,2.5,43
+Caffe' Avanti,Edwardsville,217 E Vandalia,IL,62025,3.5,8
+Tropical Escape Tiki Bar & Grill,Edwardsville,"4 Club Center Ct, Ste A",IL,62025,4,13
+Sugarfire Smokehouse - Edwardsville,Edwardsville,2323 Plum St,IL,62025,3.5,45
+Church's Chicken,Belleville,4525 N Belt W,IL,62223,1.5,10
+The Abbey,Belleville,6500 W Main St,IL,62223,4.5,5
+Troy Family Restaurant,Troy,307 Bargraves Blvd,IL,62294,3,22
+Wendy's,Fairview Hts.,6204 N. Illinois St.,IL,62208,2,20
+Pasta House,Fairview Heights,4608 N Illinois St,IL,62208,3.5,6
+Sloan's Pub House,Collinsville,119 W Main St,IL,62234,4,61
+Bob Evans,Collinsville,600 N Bluff Rd,IL,62234,2.5,27
+Dairy Queen Grill & Chill,Bethalto,444 W Bethalto Dr,IL,62010,2.5,6
+Hotshots Sports Bar & Grill - Edwardsville,Edwardsville,2511 Illinois 157,IL,62025,2.5,39
+Wendy's,Swansea,2638 N. Illinois Avenue,IL,62226,2,7
+Papa Vito's - Millstadt,Millstadt,741 W Washington,IL,62260,3.5,7
+McDill's Irish Pub,Collinsville,334 Saint Louis Rd,IL,62234,4.5,20
+Applebee's Grill + Bar,Shiloh,4300 Green Mount Crossing Dr,IL,62269,2.5,41
+Terra Sur,Troy,920 Edwardsville Rd,IL,62294,4.5,41
+Joe's Pizza & Pasta,Fairview Heights,4628 N Illinois St,IL,62208,4,88
+Papa Vito's Pizza,Waterloo,223 W Mill St,IL,62298,4,27
+Houlihan's,Fairview Heights,15 Ludwig Dr,IL,62208,3,64
+The Pump House Bar and Grill,Wood River,1523 E Edwardsville Rd,IL,62095,4,84
+T.G.I. Friday's,Fairview Heights,6910 N Illinois St,IL,62208,3,13
+Argosy Casino Alton,Alton,1 Piasa St,IL,62002,2.5,20
+Wendy's,Collinsville,1061 Collinsville Crossing,IL,62234,2,6
+Dandy Inn,Fairview Heights,1030 Lincoln Hwy,IL,62208,3,29
+Tin Rooster,Waterloo,1365 Old State Rte 3,IL,62298,3.5,6
+La Gardenia,Collinsville,8406 Collinsville Rd,IL,62234,4,70
+Spike's Pub & Grub,Belleville,3701 W Main St,IL,62226,4,29
+Saigon,Belleville,1636 Lebanon Ave,IL,62221,4,95
+Cholulas Mexican Restaurant,Swansea,1500 N Illinois St,IL,62226,4.5,62
+Papa John's Pizza,Glen Carbon,3592 South State Route #159,IL,62034,2,8
+Denny's,Collinsville,522 Ramada Blvd,IL,62234,3,29
+McDonald's,Belleville,7301 Westfield Plz,IL,62223,1.5,12
+Olive Garden Italian Restaurant,Fairview Heights,25 Ludwig Dr,IL,62208,3,97
+Edison's Entertainment Complex,Edwardsville,2477 S State Rte 157,IL,62025,3.5,88
+Breadeaux Pizza,Millstadt,105 S Jefferson,IL,62260,4,6
+Taco Bell,Wood River,1850 Memorial Lane,IL,62095,2,10
+McDonald's,Godfrey,5511 Godfrey Rd,IL,62035,2,10
+Pizza Hut,Alton,3096 Homer Adams Pkwy,IL,62002,2.5,7
+bb.q Chicken - O'Fallon,O'Fallon,"1334 Central Park Dr, Ste 6",IL,62269,5,42
+Tim Horton's Cafe & Bake Shop,O'Fallon,450 Regency Park,IL,62269,3,23
+Ahne's Bakery,Waterloo,201 W Mill St,IL,62298,5,14
+Rcasa Tex-Mex Restaurant,Columbia,230 N Main St,IL,62236,3.5,14
+Shake Rattle & Roll Drive In,Alton,101 W 9th St,IL,62002,5,13
+McDonald's,Belleville,906 Carlyle Ave,IL,62221,1.5,19
+Dewey's Pizza,Edwardsville,112 E Vandalia St,IL,62025,4.5,135
+El Indio,O'Fallon,"1333 Central Park Dr, Ste 115",IL,62269,3,5
+Denny's,East Saint Louis,140 Racehorse Dr,IL,62205,1.5,17
+The Round Table Cafe,Belleville,11 N 64th St,IL,62223,3,37
+Riverbend Billiards & Grill,Alton,909 E Broadway,IL,62002,3.5,11
+Pizza Hut,Collinsville,608 N Bluff Rd,IL,62234,2,15
+Fazoli's,Fairview Heights,5811 N. Illinois Street,IL,62208,3,14
+China King,Troy,"535 Troy Plz, Ste 537",IL,62294,3.5,19
+Sonic Drive-In,O'fallon,745 W Highway 50,IL,62269,1.5,30
+St. Louis Bread,Alton,"1837 Homer Adams Pkwy, Ste B",IL,62002,3,23
+Domino's Pizza,Godfrey,3310 Godfrey Rd,IL,62035,4,7
+Hot Dogs,Belleville,124A E Main St,IL,62220,4.5,9
+Taqueria Z,Edwardsville,109 E Park St,IL,62025,4.5,113
+Reinhardt's Restaurant,Millstadt,201 W Madison St,IL,62260,3,13
+1814 Eatery & Drinkery,Lebanon,115 W St Louis St,IL,62254,3,13
+D Boozers Food & Fire,Collinsville,118 E Main St,IL,62234,3.5,15
+Rio Grande MX Cocina,Fairview Heights,47 Ludwig Dr,IL,62208,4,61
+Red Robin Gourmet Burgers and Brews,Fairview Heights,6500 N Illinois St,IL,62208,3.5,100
+TBD Bar + Social,Fairview Heights,15 Ludwig Dr,IL,62208,2.5,38
+Bert's Chuckwagon,Collinsville,101 E Main St,IL,62234,4.5,57
+JV's Downtown Bar & Grill,Waterloo,117 N Main St,IL,62298,3.5,22
+Popeyes,Belleville,5750 Belleville Crossing St,IL,62226,1,8
+Washy's Saloon,Waterloo,1324 Jamie Ln,IL,62298,2.5,16
+China House,Washington Park,1400 Kingshighway,IL,62204,4,7
+O’Ryans Pub & Grill,Wood River,57 W Edwardsville Rd,IL,62095,4,11
+Bigelo's Bistro,Edwardsville,140 N Main St,IL,62025,4,57
+Alfonzo's Pizzeria,Maryville,2 Schiber Ct,IL,62062,3.5,17
+Colton's Steak House & Grill,Collinsville,5 Eastport Plaza Dr,IL,62234,4,79
+La Casa Mexicana O'fallon,O'Fallon,"1222 Central Park Dr, Ste 101",IL,62269,3.5,150
+Triple R's Smokehouse,Scott Air Force Base,813 Seibert Rd,IL,62225,2,6
+St. Louis Bread,Belleville,5720 Belleville Crossing St,IL,62226,2.5,28
+The Happy Bakery,O'Fallon,102 W 6th St,IL,62269,4.5,34
+Denny's,O'fallon,737 W Hwy 50,IL,62269,2.5,40
+HotShots Sports Bar & Grill - O'Fallon,O'Fallon,1319 Central Park Dr,IL,62269,3.5,51
+Smokey Joe's,Granite City,3998 Lake St,IL,62040,4,7
+La Casa Mexicana,Edwardsville,201 Harvard Dr,IL,62025,3.5,81
+Captain D's,Belleville,649 Carlyle Ave,IL,62221,3,12
+McDonald's,Alton,2400 Homer Adams Pkwy,IL,62002,2,14
+Penn Station,Belleville,651 Carlyle Ave,IL,62221,4,10
+Unkle Munkey's,Edwardsville,1027 Century Dr,IL,62025,4,29
+Schnucks - Fairview Heights,Fairview Heights,625 Lincoln Hwy,IL,62208,2.5,7
+Chef Gutzler's Butterfly Patio,Troy,"904 Edwardsville Rd, Ste 100",IL,62294,4,14
+Jack in the Box,Collinsville,9502 Collinsville Rd,IL,62234,1.5,23
+Nori Sushi & Japanese Grill,Edwardsville,1025 Century Dr,IL,62025,3.5,46
+Pitchers Sports Pub & Pizzaria,Belleville,104 W Main St,IL,62220,3,21
+6th Street Diner,Wood River,29 S 6th St,IL,62095,3.5,5
+Papa John's Pizza,O'Fallon,105 Regency Park,IL,62269,3.5,10
+The Wooden Nickel Pub & Grill,Glen Carbon,171 S Main St,IL,62034,4,85
+MOD Pizza,Edwardsville,2300 Troy Rd,IL,62025,3.5,40
+China King,Wood River,1134 Vanghn Rd,IL,62095,3,8
+Duke Bakery,Alton,819 Henry St,IL,62002,4,25
+IHOP,Glen Carbon,4233 South State Route 159,IL,62034,2,36
+Wood Bakery,O Fallon,115 W 1st St,IL,62269,4,40
+Taco Bell,O'Fallon,1141 Central Park Dr,IL,62269,1.5,12
+El Torero Family Mexican Restaurant,Granite City,3439 Nameoki Rd,IL,62040,3,13
+Subway,Lebanon,224 S Madison,IL,62254,2,8
+Soul Fish & Chicken,O'Fallon,2067 W Hwy 50,IL,62269,3,36
+Source Juicery,Edwardsville,228 N Main St,IL,62025,4.5,41
+China One Buffet,Waterloo,951 N Illinois Rt 3,IL,62298,3.5,5
+Franks Restaurant,Alton,201 E Center Dr,IL,62002,3.5,32
+Rally's,Alton,199 Alton Square Mall Dr,IL,62002,3.5,5
+Jimmy John's,Edwardsville,"1063 S State Rt 157, Suite 3",IL,62025,3.5,17
+Logan's Roadhouse,Fairview Heights,51 Lincoln Hwy,IL,62208,3.5,16
+Horseshoe Restaurant & Lounge,O'Fallon,950 Talon Dr,IL,62269,4,36
+McAlister's Deli,Fairview Heights,101 Frey Ln,IL,62208,3.5,29
+Porter's Steakhouse,Collinsville,1000 Eastport Plaza Dr,IL,62234,3.5,95
+Mokka Cafe,Columbia,180 Columbia Ctr,IL,62236,3.5,14
+Taco Bell,Belleville,15 S 59th St,IL,62223,2,11
+Applebee's Grill + Bar,Waterloo,923 N Illinois Rt 3,IL,62298,2.5,16
+Tres Caminos,Caseyville,601 N Main St,IL,62232,4.5,70
+Little Caesars Pizza,Troy,"516 Edwardsville Rd, Ste A",IL,62294,3,5
+Hardee's,Caseyville,8850 Petroff Dr,IL,62232,3,5
+Castelli's Restaurant at 255,Alton,3400 Fosterburg Rd,IL,62002,4,107
+Frederico's,Waterloo,1551 N Illinois Rte 3,IL,62298,4,28
+Papa Vito's Pizza - West Belleville,Belleville,4205 N Belt W,IL,62226,3.5,31

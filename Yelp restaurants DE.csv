@@ -1,0 +1,962 @@
+name,city,address,state,postal_code,stars,review_count
+Del Pez Mexican Gastropub,Wilmington,400 Justison St,DE,19801,3.5,290
+Tropical Smoothie Cafe,Newark,3252 Fashion Center Blvd,DE,19702,2.5,12
+Porto-Fino Pizza & Restaurant,New Castle,730 Ferry Cut Off St,DE,19720,4,38
+Drop Squad Kitchen,Wilmington,928 Justison St,DE,19801,4,282
+Delta Restaurant,Wilmington,304 W 9th St,DE,19801,4,27
+Capt'n Chucky's Crab Cake,Wilmington,1732 Marsh Rd,DE,19810,4,6
+Chelsea Tavern,Wilmington,821 N Market St,DE,19801,3.5,277
+Ciao's Trolley Pizza & Grill,Wilmington,1600 Delaware Ave,DE,19806,4,77
+Dragon Cuisine,Wilmington,401 N Market St,DE,19801,3.5,15
+Mazzella's Italian Restaurant,Wilmington,729 Philadelphia Pike,DE,19809,4,151
+Basil Bar & Grill,Wilmington,422 Delaware Ave,DE,19801,2.5,11
+Wawa,Newark,4651 Stanton Ogletown Rd,DE,19713,3,7
+Claymont Steak Shop,Claymont,3526 Philadelphia Pike,DE,19703,3,171
+Tokyo Sushi,Wilmington,3 S Orange St,DE,19801,3.5,17
+PureBread Deli,Wilmington,4001 Kennett Pike,DE,19807,4,56
+Luigi's Cafe,Hockessin,723 Ace Memorial Dr,DE,19707,4.5,63
+Carmen's Kitchen,Wilmington,1644 W 4th St,DE,19805,4.5,12
+Lucky's Coffee Shop,Wilmington,4003 Concord Pike,DE,19803,3.5,233
+Chipotle Mexican Grill,New Castle,115A S Dupont Hwy,DE,19720,2,14
+Days Inn by Wyndham Newark Wilmington,Newark,900 Churchmans Road,DE,19713,2,18
+Chili's,Newark,425 Stanton Christiana Rd,DE,19713,2,20
+Brew Haha,Wilmington,27 Trolley Sq,DE,19806,3,7
+Tutto Fresco - Italian Eatery,Wilmington,514 Philadelphia Pike,DE,19809,4,71
+L & G Southern Soul Food,New Castle,317 S Dupont Hwy,DE,19720,3,52
+McDonald's,Wilmington,700 W 4th St,DE,19801,2,16
+Lucy's Pizza & Restaurant,Wilmington,3840 N Market St,DE,19802,3.5,27
+Drip Cafe,Hockessin,144 Lantana Dr,DE,19707,4,241
+Brew Haha,Wilmington,"5329 Limestone Rd, Ste B",DE,19808,4,26
+Dunkin',Wilmington,701 Philadelphia Pike,DE,19809,3,9
+Kegler's,New Castle,3031 New Castle Ave,DE,19720,4,8
+Hunter's Den Restaurant,Wilmington,3517 Old Capitol Trl,DE,19808,2.5,31
+Salvatore's Bistro & Brick Oven Pizza,Newark,4621 Ogletown Stanton Rd,DE,19713,3,6
+Nal Restaurant,Hockessin,"1304 Old Lancaster Pike, Ste B",DE,19707,4,31
+Capital One 360 Café,Wilmington,802 Delaware Ave,DE,19801,4,5
+Cantina di Napoli,Trolley Square,7 Trolley Sq,DE,19806,4,33
+Boston Market,Newark,300 University Plz,DE,19702,3.5,12
+ShopRite of Christina Crossing,Wilmington,501 S Walnut St,DE,19801,2.5,31
+Pike Creek Pizza Company,Wilmington,5337 Limestone Rd,DE,19808,2,12
+Pho Bami,Wilmington,2113 Concord Pike,DE,19803,4.5,90
+Taco Grande,Wilmington,600 Justison St,DE,19801,3.5,33
+No. 1 China Restaurant,Wilmington,1531 Maryland Ave,DE,19805,3,12
+Mrs. Robino's Restaurant,Wilmington,520 N Union St,DE,19805,3.5,188
+Famous Dave's Bar-B-Que,Wilmington,303 Rocky Run Pkwy,DE,19803,3.5,51
+The Back Burner,Hockessin,425 Hockessin Corner,DE,19707,3.5,91
+Capriotti's Sandwich Shop,Wilmington,708 W Basin Rd,DE,19720,3.5,44
+Nick's Pizzeria & Italian Restaurant,Wilmington,"722 Philadelphia Pike, Ste A",DE,19809,4,18
+Sweeneys Bakery And Ice Cream,Wilmington,2068 Naamans Road,DE,19810,3.5,22
+Friendly's,Wilmington,5331 Brandywine Pkwy,DE,19803,3,35
+DH4 Jamaican Cuisine Restaurant,Wilmington,10 E 4th St,DE,19801,4,16
+Deep Blue Bar & Grill,Wilmington,111 W 11th St,DE,19801,3.5,52
+Catch 202,Wilmington,4723 Concord Pike,DE,19803,3,59
+Border Cafe,Newark,483 Stanton Christiana Rd,DE,19713,4,742
+Paradise Biryani Pointe,Newark,270 University Plz,DE,19702,2.5,49
+KFC,Claymont,609 Naamans Rd,DE,19703,1,31
+Nordstrom,Newark,100 Christiana Mall,DE,19702,4,24
+Mom's Pizza,Wilmington,204 N Maryland Ave,DE,19804,3,19
+Gyro Kabob House,Newark,1142 Christiana Rd,DE,19713,4.5,249
+Olive Grill,Newark,260 Chapman Rd,DE,19702,3,10
+La Poblanita,Wilmington,3804 Lancaster Pike,DE,19805,4,28
+McDonald's,Claymont,2702 Philadelphia Pike,DE,19703,1.5,25
+Wendy's,Newark,90 University Plaza,DE,19702,2,23
+Cafe Verdi Restaurant,Wilmington,"12A Trolley Sq, Ste A",DE,19806,3,44
+Little Vinnie's Pizza & Pasta,Wilmington,1706 Faulkland Rd,DE,19805,4,56
+Casa Mariachi,New Castle,519 E Basin Rd,DE,19720,3.5,8
+Cafe Mezzanotte,Wilmington,1007 N Orange St,DE,19801,3,63
+Bonhouse Chinese Restaurant,Wilmington,4713 Kirkwood Hwy,DE,19808,3,39
+Royal Garden,Wilmington,3629 Silverside Rd,DE,19810,3,9
+Ming Garden,Newark,4138 Ogletown Stanton Rd,DE,19713,3,21
+Chick-fil-A,Wilmington,"4737 Concord Pike, Ste 760",DE,19803,3.5,23
+Bugaboo Creek Steak House,Newark,1323 New Churchmans Rd,DE,19713,3,51
+Milano Pizzeria,New Castle,204 Churchmans Rd,DE,19720,3,18
+McDonald's,Wilmington,2507 Concord Pike,DE,19803,2,32
+Tierra Mexi Cali Grill,Wilmington,"4710 Limestone Rd, Ste 200",DE,19808,4,62
+Okura Japanese Cuisine Restaurant,Hockessin,703 Ace Memorial Dr,DE,19707,4,61
+McDonald's,New Castle,101 S Dupont Hwy,DE,19720,2,15
+Sunrise Sandwich Shop,New Castle,1002 River Rd,DE,19720,5,14
+Mulrooney's Tavern,Wilmington,201 New Rd,DE,19805,4,5
+Stoney's British Pub,Wilmington,3007 Concord Pike,DE,19803,4,104
+Eeffoc Cafe,Wilmington,1428 N Clayton St,DE,19806,3,31
+Cuzino's Pizza & Pasta,Wilmington,2070 Naamans Rd,DE,19810,3,41
+Jing Fong Restaurant,Claymont,2089 Philadelphia Pike,DE,19703,3,19
+Jae Seafood by Tommy,Wilmington,"403 Philadelphia Pike, Ste 1",DE,19809,4,42
+Hak's Restaurant,Wilmington,1050 S Market St,DE,19801,2,6
+Milk+Honey807,Wilmington,807 N Union St,DE,19805,4,14
+Walt's Chicken Express,Wilmington,103 N Lincoln St,DE,19805,4,51
+Hooters,New Castle,194 S Dupont Hwy,DE,19720,2.5,37
+Añejo,Wilmington,1717 Delaware Ave,DE,19806,3,34
+Panda Express,Newark,530 Jfk Memorial Hwy,DE,19702,3,11
+Eat Clean,Wilmington,225 N Market St,DE,19801,4,16
+George & Sons' Seafood Market,Hockessin,1216 Old Lancaster Pike,DE,19707,4,88
+Cavanaugh's Restaurant,Wilmington,703 N Market St,DE,19801,4,24
+JB McGinnes Pub and Grille,New Castle,519 E Basin Rd,DE,19720,3,10
+Hot Spot Pizza,Newark,1127 Churchmans Rd,DE,19713,3,20
+Makers Alley,Wilmington,804 N Orange St,DE,19801,4.5,12
+Island Fin Poke,Wilmington,1604 Delaware Ave,DE,19806,5,8
+Cafe SiTALY,Wilmington,1710 Naamans Rd,DE,19810,4.5,169
+Biden Welcome Center,Newark,530 Jfk Memorial Hwy,DE,19725,3.5,216
+Domino's Pizza,New Castle,1202 Delaware St,DE,19720,3,9
+Barcelona Pizza,Wilmington,3322 Old Capitol Trl,DE,19808,4.5,28
+Noodles & Company,Newark,715 Christiana Mall,DE,19702,3,36
+Bistro Jacques,Wilmington,607 N Lincoln St,DE,19805,4.5,13
+New York Bagel Cafe & Deli,Newark,1111 Churchmans Rd,DE,19713,2.5,9
+The Simple Greek,Wilmington,5604 Concord Pike,DE,19803,3.5,26
+Olympic Subs & Steaks,Wilmington,813 N Market St,DE,19801,4.5,64
+QDOBA Mexican Eats,Wilmington,"5609 Concord Pike, Unit 7a",DE,19803,3,18
+Everest Indian Grocery Store,Wilmington,54 Carpenter Plz,DE,19810,3.5,14
+Pho Cali,Wilmington,4373 Kirkwood Hwy,DE,19808,3.5,126
+Taco Bell,New Castle,116 North Dupont Highway,DE,19720,2,17
+Turning Point of Christiana,Newark,204 Fashion Center Blvd,DE,19702,4,140
+Tj's Jamaican Spice,Wilmington,2709 N Market St,DE,19802,4,7
+Kampo Garden,Wilmington,723 N King St,DE,19801,3,13
+Rays Market,Wilmington,307 North King St,DE,19801,3,5
+Booth House Tavern,New Castle,222 Delaware St,DE,19720,4.5,11
+Pinji's Cafe,Wilmington,1428 N Clayton St,DE,19806,4.5,33
+Burgers by Wildwich,Wilmington,2308 Concord Pike,DE,19803,3.5,10
+Mike  & Nick's,Hockessin,300 Lantana Dr,DE,19707,2,14
+China House Express,Wilmington,1404 Lancaster Ave,DE,19805,4,11
+Taqueria Los Compadres,Newark,2675 Kirkwood Hwy,DE,19711,4.5,71
+2 Fat Guys,Wilmington,"3801 Kennett Pike, Ste E120",DE,19807,3.5,56
+Cromwell's American Tavern and Taqueria,Greenville,3858 Kennett Pike,DE,19807,3,94
+Dunkin',Newark,4639 Ogletown Stanton Rd,DE,19702,2,5
+El Maguey Mexican Cuisine & Bar,Wilmington,3320 Old Capitol Trl,DE,19808,1.5,6
+Uncle John's Smokehouse,New Castle,1700 Wilmington Rd,DE,19720,4.5,13
+Pizza Hut,Newark,1025 Christiana Rd,DE,19713,2,17
+Rice Restaurant,Wilmington,2015 Limestone Rd,DE,19808,4,138
+Ny Gyro & Grill,Claymont,3541 Philadelphia Pike,DE,19703,4.5,15
+Yatz's Subs and Steaks,Wilmington,626 N Union St,DE,19805,4.5,26
+Dino's steaks,Wilmington,7 Trolley Sq,DE,19806,4,7
+Shake Shack,New Castle,2120 Fashion Center Blvd,DE,19702,3,140
+ShopRite of Brandywine Commons,Wilmington,1300 Rocky Run Pkwy,DE,19803,2,42
+Crab Du Jour - Newark,Newark,1000 Churchmans Rd,DE,19713,3,68
+Mary's,Wilmington,1836 N Lincoln St,DE,19806,4.5,34
+Barcelona Pizza Pike Creek,Wilmington,4706 Limestone Rd,DE,19808,4,6
+Jeenwong Thai Cuisine,Wilmington,3 S Orange St,DE,19801,3.5,20
+Tony's Cafe,Newark,366 Possum Park Rd,DE,19711,4,66
+Big Sky Bread Company,Wilmington,"1812 Marsh Rd, Ste 9",DE,19810,4,25
+Dragon City Chinese Restaurant,Newark,4623 Ogletown Stanton Rd,DE,19713,3,14
+Soybean Asian Grille,Wilmington,4702 Limestone Rd,DE,19808,4.5,167
+Krazy Kats Restaurant,Montchanin,Rr 100,DE,19710,4,58
+Taqueria Los Primos,Wilmington,3322 Old Capitol Trl,DE,19808,4,23
+V-Trap Kitchen and Lounge,Wilmington,607 N Lincoln St,DE,19805,5,13
+Season's Pizza,Wilmington,1721 W Gilpin Dr,DE,19805,3,7
+Bubble Shack,Wilmington,3205 Concord Pike,DE,19803,4.5,97
+Celebrations on Market,Wilmington,340 S Market St,DE,19801,4.5,7
+Manhattan Bagel,Wilmington,3505 Silverside Road Concord Plaza,DE,19810,4.5,12
+Dunkin',Elsmere,1012 Kirkwood Highway,DE,19805,3,7
+Boston Market,Wilmington,3130 Kirkwood Hwy,DE,19808,3,10
+Deerhead Hot Dogs,Wilmington,620 S Maryland Ave,DE,19804,3.5,20
+Little Caesars Pizza,Wilmington,3613 Kirkwood Hwy,DE,19808,2,13
+Ciao's Italian Grill & Pizzeria,Newark,200 University Plz,DE,19702,3,50
+Negril Caribbean Restaurant,Wilmington,727 W 4th St,DE,19801,4.5,7
+Dumpling House,Wilmington,1828 W. 11th Street,DE,19805,4,5
+Gianni's Pizza,Wilmington,1600 Delaware Ave,DE,19806,4.5,36
+Connie's Chicken and Waffles,Wilmington,111 West 10th St,DE,19801,3.5,12
+King Garden,Wilmington,729A Philadelphia Pike,DE,19809,3.5,16
+Maiale,Wilmington,"2800 Lancaster Ave, Ste 3",DE,19805,5,21
+Krispy Krunchy Chicken,Wilmington,3000 N Market St,DE,19802,4,5
+Pat's Pizzeria,Wilmington,2008 W Newport Pike,DE,19804,2,5
+Riverfront Bakery,Wilmington,313 S Justison St,DE,19801,4.5,32
+Zoup!,Newark,2136 Fashion Center Blvd,DE,19702,4.5,76
+Govatos Candies,Wilmington,800 N Market St,DE,19801,3.5,14
+Tijuana Taco Shop,Wilmington,1815 Lancaster Ave,DE,19805,3.5,19
+Berri Yummi Frozen Yogurt,Wilmington,"3100 Naamans Rd, Unit 5",DE,19810,4.5,26
+Pizza Pro,Wilmington,119 Greenbank Rd,DE,19808,3.5,26
+Cannon's Custom Cakes Bakery,Newark,228 Astro Shopping Ctr,DE,19711,2.5,52
+Sterling Grille,Wilmington,919 N Orange St,DE,19801,3.5,11
+Checkers,Wilmington,4301 N. Market Street,DE,19802,2,23
+Tacos Don Vicente,Wilmington,624 S Maryland Ave,DE,19804,5,8
+Sunset Restaurant BBQ and Crabs,New Castle,3007 New Castle Ave,DE,19720,3.5,15
+Burger King,New Castle,101 N Dupont Pkwy,DE,19720,2,15
+La Pizzeria Metro,Wilmington,3101 Miller Rd,DE,19802,4.5,94
+Delaware Saengerbund Oktoberfest,Newark,49 Salem Church Rd,DE,19713,4.5,14
+The Chicken House,Wilmington,1504 Philadelphia Pike,DE,19809,4.5,78
+Country Maid Stores,New Castle,192 Christiana Rd,DE,19720,4.5,9
+Public House Wilmington,Wilmington,902 N Market St,DE,19801,3,23
+Papa John's Pizza,Wilmington,3403 Lancaster Pike,DE,19805,1.5,25
+Sixth & Pine,Newark,"Nordstrom, 100 Christiana Mall",DE,19702,4,24
+Nordstrom Ebar Artisan Coffee,Newark,100 Christiana Mall,DE,19717,4,14
+Famous Dave's Bar-B-Que,Christiana,100 W Main St,DE,19702,3,64
+Firebirds Wood Fired Grill,Newark,1225 Churchmans Rd,DE,19713,4,430
+Jerry Deen's Family Restaurant,Wilmington,4304 N Market St,DE,19802,2,5
+Luigi Vitrone's Pastabilities Restaurant,Wilmington,415 N Lincoln St,DE,19805,4.5,49
+Olive Garden Italian Restaurant,Newark,1279 New Churchman's Rd,DE,19713,2.5,72
+Chick-fil-A,Newark,4657 Ogletown Stanton Rd,DE,19713,3.5,32
+La Tonalteca - Christiana,Newark,1237 Churchmans Rd,DE,19713,3,91
+Go Vegan Philly,Wilmington,607 N Lincoln St,DE,19805,5,21
+Wheelys Cafe,New Castle,"791 Frenchtown Rd, Penn Farm",DE,19720,4.5,10
+Margaritas Grill,Wilmington,3320 Old Capitol Trl,DE,19808,4,33
+Quinn's Cafe,Hockessin,7288 Lancaster Pike,DE,19707,4,49
+OB's Jamaican Restaurant,Wilmington,301 W 4th St,DE,19801,4.5,24
+Famous Crab Cakes,Claymont,651 Naamans Rd,DE,19703,3.5,37
+Pat's Pizza Hockessin,Hockessin,7288 Lancaster Pike,DE,19707,3,14
+The Crownery Chinese Restaurant,Hockessin,228 Lantana Dr,DE,19707,3,70
+Food For Thought Catering,Wilmington,"408 Philadelphia Pike, Ste 1",DE,19809,4.5,10
+The Greene Turtle Sports Bar & Grille,Wilmington,307 Rocky Run Pkwy,DE,19803,2.5,88
+Madeline's Italian Restaurant,Wilmington,531 N Dupont St,DE,19805,3.5,10
+Buffalo Wild Wings,Wilmington,2062 Limestone Rd,DE,19808,3,48
+Adobo Alley,Wilmington,1700 Kirkwood Hwy,DE,19805,4.5,39
+Deerhead Hot Dogs,Newark,1233 Churchmans Rd,DE,19713,4,37
+China King,Wilmington,4307 Kirkwood Hwy,DE,19808,3,19
+BBC Tavern and Grill,Greenville,4019 Kennett Pike,DE,19807,3,109
+Seasons Pizza,Wilmington,1112 New Rd,DE,19805,3.5,20
+Domino's Pizza,Wilmington,401 S Market St,DE,19801,1.5,37
+Master Wok,Newark,132 Christiana Mall,DE,19702,2.5,9
+K'S Kitchen,New Castle,150 S Dupont Hwy,DE,19720,4,15
+Prima's Pizza & Pasta,Hockessin,7454 Lancaster Pike,DE,19707,3.5,28
+McDonald's,Wilmington,101 New Rd,DE,19805,1.5,14
+Mojo Loco,Wilmington,,DE,19801,4,19
+Papa John's Pizza,Newark,"4140 Ogletown Stanton Road, Suite 20",DE,19713,2,13
+Five Guys,Wilmington,2217 Concord Pike,DE,19803,3.5,55
+Coffee Beanery,Wilmington,"4737 Concord Pike, Ste 620, Concord Mall",DE,19803,3.5,9
+Royal Farms,Newark,457 Stanton Christiana Rd,DE,19713,3.5,9
+Wawa,New Castle,183 Airport Rd,DE,19720,2,7
+Zoup!,Wilmington,4715 Kirkwood Hwy,DE,19808,4.5,51
+Snuff Mill,Wilmington,1601 Concord Pike,DE,19803,4.5,11
+Ruby Tuesday Restaurant,Wilmington,"Concord Mall, 4737 Concord Pike ,Ste 810",DE,19803,2,6
+KFC,Wilmington,1925 Lancaster Ave,DE,19805,3,5
+Maryland Avenue Sub Shop,Wilmington,623 Maryland Ave,DE,19805,4,15
+Murph's Irish Pub,Wilmington,401 Philadelphia Pike,DE,19809,3.5,5
+Wawa,New Castle,1515 North Dupont Hwy,DE,19720,3,9
+The Greek Festival,Wilmington,808 N Broom St,DE,19806,3.5,14
+Burger King,Newark,2690 Kirkwood Hwy,DE,19711,2.5,7
+Lotsa Pasta Restaurant & Lounge,Wilmington,2314 Carpenter Station Rd,DE,19810,2.5,9
+Hyderabad House,Newark,4621 Stanton Ogletown Rd,DE,19713,3,59
+Smiley's Diner,Newark,1025 Christiana Rd,DE,19713,3.5,80
+Arby's,Wilmington,4000 Concord Pike,DE,19803,3.5,14
+Jalapeno Grill,Wilmington,1815 Lancaster Ave,DE,19805,4.5,56
+Jimmy John's,Newark,1111 Churchmans Rd,DE,19713,3,16
+Burger King,Wilmington,2802 Concord Pike,DE,19803,1.5,27
+Jersey Mike's Subs,Christiana,3250 Fashion Center Blvd,DE,19702,3,19
+Pats Pizza & Bistro,Wilmington,4231 Concord Pike,DE,19803,3,24
+Dom's Deli,New Castle,Rambleton Acres Shop,DE,19720,3.5,9
+Brew-Haha,Wilmington,3636 Concord Pike,DE,19803,4,30
+McDonald's,Stanton,1790 W Newport,DE,19804,1.5,7
+Jasmine Asian Cuisine & Sushi Bar,Wilmington,3618 Concord Pike,DE,19803,3,145
+Panera Bread,Wilmington,2311 Concord Pike,DE,19803,2.5,47
+Sciarrinos Pizza,Wilmington,2310 Carpenter Station Rd,DE,19810,3.5,67
+Taverna,Wilmington,3549 Silverside Rd,DE,19810,3.5,56
+Tacos Mexigo,Claymont,307 Ridge Rd,DE,19703,3.5,26
+De La Coeur Café et Boulangerie,Wilmington,3629 Silverside Rd,DE,19801,4,32
+Taj Palace,Newark,"Meadowood 2 Shopping Ctr, 2628 Kirkwood Hwy",DE,19711,3.5,12
+Wawa,Wilmington,915 New Rd,DE,19805,2,12
+Mikimotos Japanese Restaurant & Sushi Bar,Wilmington,1212 N Washington St,DE,19801,3.5,269
+Domaine Hudson,Wilmington,1314 N Washington St,DE,19801,4.5,150
+FireStone Roasting House,Wilmington,110 S West St,DE,19801,2.5,132
+Tonic Seafood & Steak,Wilmington,111 W 11th St,DE,19801,4,122
+Sitaly To Go,Wilmington,1806 Marsh Rd,DE,19810,4,23
+J.B. Dawson's Restaurant & Bar,Newark,315 Christiana Mall,DE,19702,3.5,144
+KFC,New Castle,112 N Dupont Hwy,DE,19720,1.5,14
+D & H Jamaican Cuisine,Newark,748 E Chestnut Hill Rd,DE,19713,3,90
+Express Wings & Pizzeria,New Castle,212 New Castle Ave,DE,19720,2,13
+The Well Coffeehouse and Marketplace,Hockessin,6949 Lancaster Pike,DE,19707,4.5,44
+Ioannoni's Bullroasters,New Castle,624 E Basin Rd,DE,19720,4.5,182
+The Legend Restaurant and Bakery,New Castle,201 N Dupont Hwy,DE,19720,4,38
+Subway,Wilmington,"4721 Kirkwood Hwy, Unit  5",DE,19808,1,5
+Panda Express,New Castle,113 South Dupont Highway,DE,19720,2.5,12
+Burger King,Wilmington,300 S Maryland Ave,DE,19804,3,5
+Panera Bread,Newark,715 Christiana Mall Rd,DE,19702,2.5,35
+Daily Veg - Pike Creek,Wilmington,5335B Limestone Rd,DE,19808,4,56
+Wawa,Wilmington,2030 Limestone Rd,DE,19808,3,10
+Asnan Sushi Bar & Asian Cuisine,Wilmington,115 Christina Lndg,DE,19801,2,6
+Samson's Country Maid,Newark,14 Polly Drummond Shpg Ctr,DE,19711,4,6
+Chili's,Wilmington,4147 Concord Pike,DE,19803,3,25
+Philly Pretzel Factory,Wilmington,1718 Naamans Rd,DE,19810,2.5,11
+ACME Markets,Wilmington,1812 Marsh Rd,DE,19810,2,6
+Wendy's,Marshallton,4300 Kirkwood Hwy,DE,19808,2,12
+Torbert Street Social,Wilmington,305 Torbert St,DE,19801,4,37
+Stone Oven Soul Food And Pizzeria,Wilmington,801 N Union St,DE,19805,4,8
+New York Fried Chicken,Wilmington,2931 N Market St,DE,19802,3,5
+Adams’ Rib & Grille,Claymont,2707 Philadelphia Pike,DE,19703,3.5,22
+Cocina Lolo,Wilmington,405 N King St,DE,19801,3.5,47
+Bull Bay Cuisine,Wilmington,900 N Orange St,DE,19801,2.5,27
+Brew HaHa!,Wilmington,835 N Market St,DE,19801,3.5,16
+PureBread Deli,Wilmington,"500 Delaware Ave, Ste 100",DE,19801,4,41
+Cosi,Greenville,3828 Kennett Pike Ste A,DE,19807,3,8
+Twisted Soul Restaurant & Bar,Wilmington,413 N Market St,DE,19801,3.5,44
+Mexican Post,Wilmington,3100 Naamans Rd,DE,19810,3.5,131
+Oasis Middle Eastern Restaurant,Newark,11 Salem Village Sq,DE,19713,3.5,75
+La Consentida,Wilmington Manor,"1511 N Dupont Hwy, Ste 14",DE,19720,4,11
+Claymont Steak Shop,Wilmington,2720 Concord Pike,DE,19803,2.5,73
+Skyline Grill,Wilmington,3542 3 Little Bakers Blvd,DE,19808,2,7
+North Quarter Creole,Wilmington,837 N Union St,DE,19805,3.5,32
+James Street Tavern,Newport,2 S James St,DE,19804,3.5,37
+Hibachi Express,Newark,752 E Chestnut Hill Rd,DE,19713,3,21
+Fresh Thymes,Wilmington,1836 Lovering Ave,DE,19806,4.5,75
+China Royal,Wilmington,"Plaza III Shopping Ctr, 1845 Marsh Rd",DE,19810,3,9
+Tree Garden,Wilmington,1317 McKennans Church Rd,DE,19808,4,62
+Eeffoc's cafe,Wilmington,3 S Orange St,DE,19801,3.5,6
+MrBeast Burger,Newark,,DE,19702,3.5,7
+Golden Dove Diner Restaurant,New Castle,1101 N Dupont Hwy,DE,19720,3.5,88
+Ruby Tuesday,Newark,"719 Christiana Mall, #607-A",DE,19702,2,9
+A Pizza History,New Castle,625 Delaware St,DE,19720,3.5,12
+The Ice Cream Shoppe,Wilmington,700 Philadelphia Pike,DE,19809,4,11
+Sub City,Wilmington,701 N King St,DE,19801,4.5,16
+Alex's Seafood Restaurant & Clam Bar,New Castle,110 N Dupont Pkwy,DE,19720,3.5,52
+DiMeo's Pizza,Wilmington,831 N Market St,DE,19801,4,140
+Mr Wish,Newark,132 Christiana Mall,DE,19702,4.5,21
+Vincente's Restaurant,Wilmington,5914 Kirkwood Hwy,DE,19808,4,79
+Kalbi Asian Bistro,Wilmington,2011 Kirkwood Hwy,DE,19805,3.5,109
+Denny's,Newark,80 Mcintosh Plz,DE,19713,2,70
+Top China Buffet,Wilmington,1714 Marsh Rd,DE,19810,2.5,5
+La Tonalteca,Wilmington,1724 W Newport Pike,DE,19804,3,6
+Wendy's,New Castle,140 N Dupont Hwy,DE,19720,3,9
+Tex-Mex Burrito,Wilmington,514 Philadelphia Pike,DE,19809,4,27
+Bawarchi Biryani Point,Newark,2628 Kirkwood Hwy,DE,19711,3.5,53
+The Chicken Spot,Wilmington,204 W 10th St,DE,19801,4,11
+El Pique II,Wilmington,2110 Kirkwood Hwy,DE,19805,4,5
+Capriotti's Sandwich Shop,Wilmington,4522 Kirkwood Hwy,DE,19808,2.5,48
+Scalessa's,Wilmington,1836 N Lincoln St,DE,19806,5,176
+Three Countries Pizzeria,New Castle,202 E 6th St,DE,19720,3.5,13
+Party Pizza,Wilmington,212 Boxwood Rd,DE,19804,4,26
+Pat's Pizza & Pasta,New Castle,606 E Basin Rd,DE,19720,3,22
+Rasa Sayang,Wilmington,"4737 Concord Pike, Unit 830, Concord Mall",DE,19810,4,260
+Kidds Chicken And Waffles,Wilmington,301 N Pine St,DE,19801,2.5,5
+Bogle Cove Oyster House,Wilmington,5335 Limestone Rd,DE,19808,3.5,28
+Applebee's Grill + Bar,Wilmington,4301 Kirkwood Hwy,DE,19808,2.5,35
+Mike's Famous Steaks & Subs,Newark,754 E Chestnut Hill Rd,DE,19713,4,39
+Philippine Bread House And Restaurant,Wilmington,"3317 Old Capitol Trl, Ste D",DE,19808,3.5,7
+Doc's Meat Market,Hockessin,7288 Lancaster Pike,DE,19707,5,8
+Pizza by Elizabeths,Wilmington,4019 Kennett Pike,DE,19807,3.5,65
+Zaikka Indian Grill,Wilmington,901 N King St,DE,19801,3.5,6
+Friendly's,Newark,2670 Kirkwood Highway,DE,19711,2.5,12
+Unique Chinese & Japanese Cuisine,Wilmington,1535 W 4th St,DE,19805,2.5,12
+Taco Bell,Claymont,609 Naamans Rd,DE,19703,1,25
+Capers & Lemons Restaurant,Wilmington,301 Little Falls Dr,DE,19808,4,187
+G & P Pizza,Wilmington,2803 N Market St,DE,19802,4.5,7
+Christa-Bell's Caribbean Cuisine,Wilmington,414 N Union St,DE,19805,3.5,12
+Chili's,Newark,3220 Fashion Center Blvd,DE,19702,2,57
+China Inn,New Castle,216 New Castle Ave,DE,19720,2,6
+Maui Poke Bowl,Newark,4148 Ogletown Stanton Rd,DE,19713,4,15
+Kooma,Wilmington,400 Justison St,DE,19801,3.5,62
+Treehouse Café,Wilmington,714 W 11th St,DE,19801,4.5,59
+Arby's,Wilmington,3211 Kirkwood Hwy,DE,19808,3,12
+Señor Tortilla,Wilmington,1730 W Newport Pike,DE,19804,5,16
+El Cantaro,New Castle,181 S Dupont Hwy,DE,19720,4,5
+Cotti's Pizza,Hockessin,7313 Lancaster Pike,DE,19707,4,11
+Semo's Cart,Wilmington,North Jefferson St W 11th St,DE,19801,4.5,12
+Shenanigans Irish Pub & Grill,Wilmington,125 N Market St,DE,19801,4,14
+World Cafe Live at The Queen,Wilmington,500 N Market St,DE,19801,3.5,54
+Moro Restaurant,Wilmington,1307 N Scott St,DE,19806,3.5,115
+Saladworks,Newark,211 Christiana Mall Rd,DE,19702,3.5,10
+Seasons Pizza,Newark,4606 Ogletown Stanton Rd,DE,19713,2.5,32
+China Wok,Wilmington,2922 North Market St,DE,19802,3.5,8
+Brandywine Brewing Company Restaurant & Brewery,Wilmington,"3801 Kennett Pike, Ste E155",DE,19807,3,28
+Harry's Savoy Grill,Wilmington,2020 Naamans Rd,DE,19810,3.5,204
+Bonefish Grill,Wilmington,"4737 Concord Pike St, Ste 455",DE,19803,3.5,138
+Green Room,Wilmington,42 W 11th St,DE,19801,3.5,86
+Tasties 302,Wilmington,825 N Market St,DE,19801,3,14
+Burger King,Wilmington,3607 Kirkwood Hwy,DE,19808,1.5,8
+Pamela's Gourmet,Newark,406 Louviers Dr,DE,19711,5,5
+Hot Spot Pizza & Restaurant,Wilmington,3209 Miller Rd,DE,19802,4.5,15
+China Inn,Wilmington,601 Maryland Ave,DE,19805,2.5,7
+Brown Bag Deli and Grocery,Wilmington,301 E 9th St,DE,19801,4.5,6
+La Tlaxquenita,New Castle,218 New Castle Ave,DE,19720,5,7
+Kukurukoo Express,Wilmington,101 W Market St,DE,19804,3.5,12
+La Fia,Wilmington,421 N Market St,DE,19801,4,177
+Sleeping Bird Coffee,Wilmington,3111 Miller Rd,DE,19802,5,8
+Tyler's Bar & Grille,Wilmington,5343 Limestone Rd,DE,19808,3,80
+Skipjack Dining,Newark,401 Louviers Dr,DE,19711,4,109
+Takumi,Wilmington,1601 Concord Pike,DE,19803,3.5,193
+Market Street Grill,Wilmington,4304 N Market St,DE,19802,3.5,9
+Wawa,New Castle,4000 North Dupont Hwy,DE,19720,3.5,23
+Stanley's Tavern,Wilmington,2038 Foulk Rd,DE,19810,3,108
+Golden City Chinese Cuisine,Hockessin,"7288 Lancaster Pike, Ste 4B",DE,19707,3.5,12
+Kuteer,Wilmington,54 Carpenter Plz,DE,19810,4.5,13
+BellaVista Trattoria & Pizzeria,Wilmington,5337B Limstone Rd,DE,19808,3.5,29
+Utage Japanese Restaurant,Wilmington,"1601 Concord Pike, Ste 59",DE,19803,4,5
+Cosmos Restaurant,Wilmington,316 S Maryland Ave,DE,19804,3.5,71
+Red Lobster,Talleyville,"309 Rocky Run Pkwy, ACROSS THE STREET FROM THE CONCORD MALL",DE,19803,3,51
+Constitution Yards,Wilmington,308 Justison St,DE,19801,4,55
+King Garden,Wilmington,2511 W 4th St,DE,19805,4,10
+Margaux,Wilmington,902 N Market St,DE,19801,3.5,16
+Palace Of Asia,Wilmington,3421 Kirkwood Hwy,DE,19808,3,61
+Jake's Wayback Burgers,Claymont,2095 Philadelphia Pike,DE,19703,3,16
+TGI Fridays,New Castle,128 N Dupont Hwy,DE,19720,2,75
+Pasteleria Rojas,Wilmington,2110 Kirkwood Hwy,DE,19805,3.5,5
+Feby's Fishery,Wilmington,3701 Lancaster Pike,DE,19805,3.5,141
+Mexican Table,Hockessin,7288 Lancaster Pike,DE,19707,4,112
+Cafe New Castle,New Castle,414 Delaware St,DE,19720,4,69
+Boston Market,Claymont,3603 Philadelphia Park,DE,19703,3,22
+Cajun Kate's Philly Pike,Wilmington,722 Philadelphia Pike,DE,19809,4.5,64
+Boston Market,Wilmington,3900 Concord Pike,DE,19803,3,13
+Lone Star Steakhouse,New Castle,113 S. Dupont Highway,DE,19720,2,15
+Bardea Food & Drink,Wilmington,620 N Market St,DE,19801,4.5,181
+Goat Kitchen and Bar,Wilmington,1845 Marsh Rd,DE,19810,4,198
+J & C Cuisine,Newark,290 University Plz,DE,19702,4,29
+Aureas Mexican Restaurant,Claymont,3624 Bayard Dr,DE,19703,4,72
+Padi,Hockessin,700 Lantana Dr,DE,19707,2.5,23
+BarRoja,Wilmington,1709 Delaware Ave,DE,19806,4,27
+Pizza Pro,Hockessin,7313 Lancaster Pike,DE,19707,4,29
+Cuzino's Pizza & Pasta,Wilmington,4553 Kirkwood Hwy,DE,19808,3,39
+Hong Hing Chinese Restaurant,Wilmington,707 S Union St,DE,19805,4,37
+Two Stones Pub,Newark,1203 Christiana Rd,DE,19713,4,328
+Maiale,Wilmington,"3301 Lancaster Ave, Ste 3D",DE,19805,4.5,65
+Red Lobster,Newark,"1249 New Churchman's Rd, CENTER POINTE PLAZA",DE,19713,2.5,59
+McDonald's,Newark,4160 Ogletown Stanton Rd,DE,19713,2,11
+El Amigo: Taqueria & Store,Wilmington,"707 S Union St, Ste A",DE,19805,4.5,11
+The Melting Pot,Wilmington,"1601 Concord Pike, Ste 43-47, Independence Mall",DE,19803,4,79
+Merchant Bar,Wilmington,426 N Market St,DE,19801,4,51
+Taqueria Atexquita,New Castle,220 New Castle Ave,DE,19720,3.5,5
+Biryani City,Newark,270 University Dr,DE,19702,3.5,90
+Lamberti's Cucina,Wilmington,1300 Centerville Rd,DE,19808,2.5,23
+Brio Italian Grille,Newark,305 Christiana Mall Rd,DE,19702,3.5,221
+Valle Cucina,Wilmington,4752 Limestone Rd,DE,19808,3,75
+Satsuma Asian Kitchen & Bar,Wilmington,1707 Delaware Ave,DE,19806,2.5,41
+Tony and Dominick's Pizza,Wilmington,1808 Newport Gap Pike,DE,19808,4.5,41
+Market Kitchen & Bar,Newark,100 Continental Dr,DE,19713,4,21
+Cafe Americana,Wilmington,"4500 Linden Hill Rd, Ste 11",DE,19808,4.5,29
+Casapulla's North Steak & Sub Shop,Wilmington,2707 Concord Pike,DE,19803,4,52
+Dunkin',Wilmington,3804 Kirkwood Hwy,DE,19808,4,14
+Bella Vista Trattoria,Wilmington,3 S Orange St,DE,19801,4.5,9
+ShopRite of 1st State Plaza,Wilmington,1600 W. Newport Pike,DE,19804,2,18
+The Spare Rib,New Castle,3031 New Castle Ave,DE,19720,4.5,9
+Kennedy Fried Chicken,Wilmington,620 N Market St,DE,19801,3.5,9
+Kapow Food Truck,Wilmington,1701 Louvering Ave,DE,19806,4,10
+Olive Garden Italian Restaurant,Talleyville,305 Rocky Run Pkwy,DE,19803,3.5,67
+International Super Buffet,Wilmington,2021 Kirkwood Hwy,DE,19805,1,7
+Manhattan Bagel,Wilmington,3209B Concord Pike,DE,19803,4,19
+Pomodoro Restaurant,Wilmington,729 N Union St,DE,19805,3,10
+Star of India,Wilmington,1710-A Newport Gap Pike,DE,19808,4,44
+Corner Bistro,Wilmington,3604 Silverside Rd,DE,19810,4,200
+Dorcea,Wilmington,1314 Washington St,DE,19801,4.5,25
+Dead Presidents Pub & Restaurant,Wilmington,618 N Union St,DE,19805,3.5,98
+Popeyes,Newark,Chapman Road,DE,19702,2,21
+McDonald's,Wilmington,4111 N Market St,DE,19802,1.5,16
+Dom's N.Y. Style Pizzeria,Newport,"218 W Market St, Newport Plaza",DE,19804,4,83
+Arby's,New Castle,134 N Dupont Hwy,DE,19720,3,9
+Piccolina Toscana,Wilmington,1412 N Dupont St,DE,19806,3.5,99
+Legends,Wilmington,777 Delaware Park Blvd,DE,19804,3,19
+Los Taquitos De Puebla,New Castle,241 N Dupont Hwy,DE,19720,3.5,40
+Checkers,New Castle,1503 N. Dupont Hwy.,DE,19720,2,5
+Dominican Cafe,Wilmington,1223 W 4th St,DE,19805,4,14
+BOBO's Mediterranean Grill & Buffet,Wilmington,429 S Walnut St,DE,19801,3,11
+Gallery Pizza,Wilmington,1622 W Newport Pike,DE,19804,3,10
+Cactus Cantina,Wilmington,211 W 9th St,DE,19801,3.5,23
+Iron Hill Brewery & Restaurant,Wilmington,620 Justison St,DE,19801,3.5,512
+Nora Lee's,New Castle,124 Delaware St,DE,19720,3.5,207
+Five Guys,Wilmington,3234 B Kirkwood Hwy,DE,19808,3,21
+Market Street Bakery and Cafe,Wilmington,823 N Market St,DE,19801,4,23
+Benjamin's On 10th,Wilmington,204 W 10th St,DE,19801,4,13
+Moe's Southwest Grill,Wilmington,4717 Kirkwood Hwy,DE,19808,2,46
+Oscar's Famous Pizzeria,Wilmington,4569 New Linden Hill Rd,DE,19808,2.5,23
+Seasons Pizza,New Castle,903 N Dupont Hwy,DE,19720,3,28
+Hooters,Newark,136 Astro Shopping Ctr,DE,19711,3.5,6
+Masala Kitchen,New Castle,110 N Dupont Hwy,DE,19720,4.5,79
+Pizza by Elizabeths,Wilmington,"3801 Kennett Pike, Ste E220",DE,19807,4,180
+El Toro Cantina,Wilmington,1934 W 6th St,DE,19805,4,9
+Scrimmages Restaurant and Sports Bar,Wilmington,4723 Concord Pike,DE,19803,2.5,21
+La Tolteca,Wilmington,1724 W Newport Pike,DE,19804,3,6
+Steak Works,Wilmington,2207 Silverside Rd,DE,19810,3.5,24
+Wendy's,Wilmington,2151 Kirkwood Hwy,DE,19805,3.5,7
+The Copper Dram,Greenville,3826 Kennett Pike,DE,19807,4.5,56
+Libbys Restaurant,Wilmington,227 W 8th St,DE,19801,4,47
+LOMA Coffee,Wilmington,239 N Market St,DE,19801,4.5,143
+Wendy's,Wilmington,4125 Concord Pike,DE,19803,2,11
+Lone Star Steakhouse,Wilmington,307 Rocky Run Parkway,DE,19803,2,36
+Jake's Wayback Burgers,Wilmington,2401 Kirkwood Hwy,DE,19805,4.5,9
+Sweets To You by Ginger,Wilmington,913 Brandywine Blvd,DE,19809,2.5,25
+Wilma's,Wilmington,900 N Market St,DE,19801,4,7
+Wade's,Wilmington,807 W Newport Pike,DE,19804,4.5,5
+New Castle Bagels & Deli,New Castle,1420 N Dupont Hwy,DE,19720,4,21
+Seasons Pizza,Wilmington,615 S Maryland Ave,DE,19804,2,19
+Merengue House,Wilmington,837 N Union St,DE,19805,4,24
+Sonora at The David Finney Inn,New Castle,222 Delaware St,DE,19713,4,9
+New Hibachi Express,Wilmington,4526 B Kirkwood Hwy,DE,19808,3,13
+Chiwa Bistro,Newark,132 Christiana Mall,DE,19702,4,113
+The R Lounge & Restaurant,Wilmington,900 N Orange St,DE,19801,2.5,7
+Saladworks,Wilmington,4567 Kirkwood Hwy,DE,19808,2.5,10
+Shawerma Palace,Wilmington,311 N King St,DE,19801,4.5,8
+Stoltzfus Sausage Sandwiches,New Castle,"110 N Dupont Hwy, Ste 186, New Castle Farmers Market",DE,19720,4.5,9
+Romeo's Pizza & Restaurant,Wilmington,1812 Marsh Rd,DE,19810,3,15
+Nirvana Fine Indian Cuisine,Wilmington,"1601 Concord Pike, Ste 5-13",DE,19803,3,124
+Hong Kong Chinese Kitchen,New Castle,1 Penn Mart Shopping Ctr,DE,19720,1.5,6
+TGI Fridays,Wilmington,301 Rocky Run Pkwy,DE,19803,2.5,68
+Panda Express,Wilmington,4704 Kirkwood Hwy,DE,19808,2.5,18
+Saladworks,Newark,4150 Ogletown-Stanton Rd,DE,19713,2.5,19
+Ciro Food & Drink,Wilmington,321A Justison St,DE,19801,4.5,59
+Burger King,Claymont,2911 Philadelphia Pike,DE,19703,1.5,18
+Sakura Japanese Restaurant,Wilmington,4713 Kirkwood Hwy,DE,19808,4,86
+El Jefe Restaurant & Mexican Grill,Newark,110 Astro Shopping Ctr,DE,19711,3.5,69
+The Perfect Cup Cafe,Hockessin,7460 Lancaster Pike,DE,19707,3.5,97
+Mazza,Wilmington,2909 1/2 Concord Pike,DE,19803,3,8
+Red Robin Gourmet Burgers and Brews,Christiana,101 W Main St,DE,19702,3,86
+Jamaican Mi Hungry,Wilmington,2202 Kirkwood Hwy,DE,19805,4.5,29
+Limestone BBQ and Bourbon,Wilmington,2062 Limestone Rd,DE,19808,4,174
+Ristorante Attilio,Wilmington,1900 Lancaster Ave,DE,19805,4,50
+Chick-fil-A,Newark,204 Christiana Mall,DE,19702,3.5,18
+Pret A Manger,Newark,530 Jfk Memorial Hwy,DE,19702,4,8
+Royal Farms,Wilmington,3701 Kirkwood Hwy,DE,19808,1.5,18
+Touch Of Italy,Wilmington,2530 Concord Pike,DE,19803,3.5,158
+Buffalo Wild Wings,Newark,501 Stanton Christiana Rd,DE,19713,2,41
+302foodplug,Wilmington ,1805 Newport Gap Pike,DE,19808,4,6
+The Brasserie Grille,Newark,100 Continental Dr,DE,19713,2.5,10
+Banks' Seafood Kitchen and Raw Bar,Wilmington,101 S Market St,DE,19801,3.5,287
+Chicky's Pizza Pub,Wilmington,201 N Market St,DE,19801,3,10
+Pan Tai Restaurant,Wilmington,837 N Union St,DE,19805,1.5,6
+Suki Hana,Newark,"132 Christiana Mall, Ste 1477",DE,19702,3,50
+Cafe Scalessas,Wilmington,504 Greenhill Ave,DE,19805,3.5,7
+Uschy's Cafe,Wilmington,913 N Market St,DE,19801,4.5,12
+El Diablo Burritos,Wilmington,5329A Limestone Rd,DE,19808,4.5,23
+Buckley's Tavern,Wilmington,5812 Kennett Pike,DE,19807,3.5,219
+Viva Chicken,Newark,1103 Churchmans Rd,DE,19713,4,68
+Jakes Wayback Burgers,New Castle,150 S Dupont Hwy,DE,19720,3,14
+The Wicked Vine,Wilmington,1934 W 6th St,DE,19805,3,6
+Arner's Restaurant,New Castle,201 N Dupont Hwy,DE,19720,2,57
+Wawa,Talleyville,4030 Concord Pk,DE,19803,4,11
+China Inn Restaurant,Wilmington,2308 A Concord Pike,DE,19803,4,16
+Prospero's Pizza,New Castle,801 Churchmans Rd,DE,19720,5,11
+Bella Italy,Wilmington,4817 Governor Printz Blvd,DE,19809,2.5,15
+Opa Opa,Wilmington,7 A Trolley Sq,DE,19806,4,119
+"Just To Serve You, DE",Wilmington,1828 W 11th St,DE,19805,3.5,62
+Checkers,Wilmington,4303 Kirkwood Hwy,DE,19808,2,13
+El Salvadoreno,Wilmington,101 Kirkwood Sq,DE,19808,4,9
+Sullivan's Steakhouse,Wilmington,5525 Concord Pike,DE,19803,3.5,207
+Kozy Korner Restaurant,Wilmington,906 N Union St,DE,19805,4,48
+Cuzino's Pizza & Pasta,New Castle,188 Penn Mart Shopping Ctr,DE,19720,3,13
+Wawa,Wilmington,705 Philadelphia Pk,DE,19809,3.5,7
+Lestardo's Crab House,New Castle,135 Christiana Rd,DE,19720,3.5,123
+Planet Hoagie,Wilmington,2501 Foulk Rd,DE,19810,3.5,5
+Wawa,Hockessin,605 Yorklyn Rd,DE,19707,3.5,10
+Anthony's Coal Fired Pizza,Pike Creek,4805 Limestone Rd,DE,19808,4,119
+Minato Japanese Restaurant,Wilmington,101 W 8th St,DE,19801,3,9
+Chaiyo Sushi and Thai Cuisine,Wilmington,1724 W Newport Pike,DE,19804,4,36
+Gyro King,Newark,4130 Ogletown Stanton Rd,DE,19713,4,61
+Pupuseria Salvadoreña,Wilmington,101 Kirkwood Sq,DE,19808,4,29
+Sicily's Pizza,Wilmington,1819 Lancaster Ave,DE,19805,4.5,5
+Friendly's,Hockessin,80 Lantana Dr,DE,19707,2.5,19
+Charcoal Pit,Wilmington,714 Greenbank Rd,DE,19808,2.5,46
+Michael's Restaurant & Pub,Newark,1000 Churchmans Rd,DE,19713,3,96
+Taco Bell,Wilmington,3902 Concord Pke,DE,19803,2.5,18
+Baja Fresh,Newark,"530 Jfk Memorial Hwy, # I-95, Delaware Welcome Center",DE,19702,2.5,17
+Crossroads Restaurant,Wilmington,4579 Kirkwood Hwy,DE,19808,3.5,103
+El Patron Restaurant,Wilmington,1718 W Gilpin Dr,DE,19805,4.5,18
+Wawa,Claymont,2621 Philadelphia Pk,DE,19703,3.5,26
+Angelina's Italian Grill,Glen Mills,"1102 Baltimore Pike, Ste 101",DE,19342,2.5,33
+Krispy Krunchy Chicken,Wilmington,4101 Concord Pike,DE,19803,2.5,5
+Green Box Kitchen,Wilmington,400 North Market St,DE,19801,5,20
+Dash In,Wilmington,2001 Pennsylvania Ave,DE,19806,2.5,6
+8th & Union Kitchen,Wilmington,801 N Union St,DE,19805,3.5,177
+Red Robin Gourmet Burgers and Brews,Wilmington,6100 Brandywine Pkwy,DE,19803,3,118
+Gallucio's,Wilmington,1709 Lovering Ave,DE,19806,3,37
+Café Valentina,Wilmington,1323 Mckennans Church Rd,DE,19808,3.5,54
+Al Chu’s Sushi,Wilmington,111 W 10th St,DE,19801,4.5,14
+Einstein Bros. Bagels,Wilmington,1732 Marsh Rd,DE,19810,2.5,39
+IHOP,Wilmington,2001 Concord Pike,DE,19803,3,60
+Pizza Hut,Wilmington,1300 Veale Rd,DE,19810,2,8
+Chipotle Mexican Grill,Wilmington,2209 Concord Pike,DE,19803,2,15
+Big Fish Grill - Riverfront,Wilmington,720 Justison St,DE,19801,4,456
+Orillas Tapas Bar & Restaurant,Wilmington,902 N Market St,DE,19801,4.5,44
+Taqueria Rojas,Wilmington,3616 Kirkwood Hwy,DE,19808,3,5
+Chuck E. Cheese,Wilmington,3601 Silverside Rd,DE,19810,2,19
+GARRISON DELI,New Castle,501 West 7 Th Street,DE,19720,4.5,7
+Ameritage Bistro,Wilmington,9th St & Orange St,DE,19801,3.5,8
+Zoes Kitchen,Newark,2150 Fashion Center Blvd,DE,19702,3.5,63
+Taqueria El Amigo,Newport,224 W Market St,DE,19804,4.5,16
+Crab Du Jour - Wilmington,Wilmington,2107 Concord Pike,DE,19803,3,8
+Scrumptious,Wilmington,1715 Delaware Ave,DE,19806,4,305
+Domino's Pizza,Wilmington,4528 Kirkwood Hwy,DE,19808,2,15
+European Bistro,Wilmington,1710 Naamans Rd,DE,19810,4,19
+Kampo Garden Chinese Food,Wilmington,117 Greenbank Rd,DE,19808,2.5,16
+Bob Evans,Newark,402 Eagle Run Rd,DE,19702,2.5,42
+Cafe Riviera,Wilmington,4737 Concord Pike,DE,19803,4,59
+QDOBA Mexican Eats,Newark,"3230 Fashion Center Blvd, Ste 228",DE,19702,2.5,26
+Noodles & Company,Wilmington,4737 Concord Pike,DE,19803,3.5,26
+Legal Grounds Cafe,Wilmington,1208 Kirkwood Hwy,DE,19805,5,87
+Krazy Kat's Restaurant,Montchanin,528 Montchanin Rd,DE,19710,4,89
+Troy Pizza & Family Restaurant,Newark,2618 Kirkwood Hwy,DE,19711,2.5,28
+Milk & Honey Coffeehouses,Wilmington,239 N Market St,DE,19801,4.5,9
+Bahama Breeze,Newark,500 Center Blvd,DE,19702,3.5,215
+China House Chinese Kitchen,Wilmington,1620 W Newport Pike,DE,19804,3,10
+De La Coeur Café et Pâtisserie,Wilmington,1836 Lovering Ave,DE,19806,4.5,160
+Chipotle Mexican Grill,Newark,"132 Christiana Mall, Ste 1481",DE,19702,2.5,8
+Walter's Steakhouse,Wilmington,802 N Union St,DE,19805,4,73
+Tropical Smoothie Cafe,Wilmington,4742 Limestone Rd,DE,19808,4,26
+Domino's Pizza,Newark,12 Polly Drummond Hill Rd,DE,19711,2.5,9
+IHOP,Newark,2644 Kirkwood Hwy,DE,19711,2,19
+Hibachi Sushi and Super Buffet,Wilmington,429 S Walnut St,DE,19801,2.5,27
+Pizzeria Maki,Greenville,"4007 Kennett Pike, Ste A",DE,19807,5,13
+Starbucks,Greenville,"3828 Kennett Pike, Ste A",DE,19807,3.5,9
+Anthony's Coal Fired Pizza,Wilmington,5611 Concord Pike,DE,19803,3.5,158
+Ed's Hot Dogs,New Castle,138 Sunset Blvd,DE,19720,5,8
+Mr. Pasta,Wilmington,1607 Philadelphia Pike,DE,19809,4,39
+Docklands Riverfront,Wilmington,110 West St,DE,19801,3.5,72
+El Diablo Burritos,Wilmington,1826-1828 Marsh Rd,DE,19810,4.5,171
+McDonald's,Wilmington,3318 Kirkwood Hwy,DE,19808,1.5,23
+Zach’s Grill,New Castle,739 Ferry Cut Off St,DE,19720,4,12
+Bites & Slice,Wilmington,629 W 4th St,DE,19801,3,17
+Park Café,Wilmington,2510 W 5th St,DE,19805,5,5
+Wawa,Claymont,601 Naamans Rd,DE,19703,3,17
+Evergreen Restaurant,Wilmington,"3608 Miller Rd, Ste 6A",DE,19802,4,12
+Arby's,Claymont,2719 Philadelphia Pike,DE,19703,3.5,6
+Pizza & Pasta,New Castle,1505 N Dupont Hwy,DE,19720,3.5,19
+Naaman's Pizzeria,Wilmington,"3100 Naamans Rd, Ste 9",DE,19810,4.5,34
+Bella Luna,Wilmington,729 N Union St,DE,19805,4,17
+New York Pizza & Fried Chicken,Wilmington,309 N King St,DE,19801,2.5,6
+QDOBA Mexican Eats,Wilmington,837 N Market St,DE,19801,2.5,23
+The House of William and Merry,Hockessin,1336 Old Lancaster Pike,DE,19707,4.5,156
+Angel's Restaurant,Wilmington,2222 Silverside Rd,DE,19810,4,38
+Tropicalia,Wilmington,1701 W 4th St,DE,19805,4,10
+Evelyn's Soul Food,Wilmington,1409 N King St,DE,19801,3.5,52
+Zaikka Indian Grill,Newark,1253 Churchmans Rd,DE,19713,3.5,69
+I M Coffee,Wilmington,1105 N Market St,DE,19801,4,6
+Morelia Mexican Restaurant & Bar,Newark,4617 Ogletown Stanton Rd,DE,19713,3.5,69
+Mimi Teriyaki,Wilmington,925 N Orange St,DE,19801,4.5,14
+Domino's Pizza,Newark,20 Salem Village Sq,DE,19713,1.5,13
+Bangkok House Restaurant,Wilmington,104 N Union St,DE,19805,4,76
+Miller's Ale House,Newark,1323 Churchmans Rd,DE,19713,3,143
+Taqueria Jalisco,Wilmington,1722 W Gilpin Dr,DE,19805,4.5,16
+Seasons Pizza,Wilmington,1524 Philadelphia Pike,DE,19809,2,28
+China East,New Castle,726 Ferry Cut Off St,DE,19720,2.5,7
+China King Restaurant,Wilmington,608 N Union St,DE,19805,4,12
+Szechuan Restaurant,Wilmington,3615 Kirkwood Hwy,DE,19808,3.5,28
+Bellefonte Cafe,Wilmington,804 Brandywine Blvd,DE,19809,4,100
+Wawa,Wilmington,400 Wilson Rd,DE,19803,2.5,8
+Bawarchi Indian Restaurant,Wilmington,2909 Concord Pike,DE,19803,3.5,101
+Pachamama Rotisserie Chicken,wilmington,3 S Orange St,DE,19801,4,61
+Grotto Pizza,Wilmington,1819 Pennsylvania Ave,DE,19801,3,71
+Evergreen,New Castle,15 Pkwy Plz N Dupoint Hwy,DE,19720,3,7
+Kung Fusion Asian Grill,Wilmington,1714 Marsh Rd,DE,19810,3,32
+Pat's Pizzeria,Wilmington,3604 Lancaster Pike,DE,19805,3,24
+The Reef Seafood & Steak Restaurant,Wilmington,2618 Carpenter Station Rd,DE,19810,4,121
+Papa's Pastry Shop,Wilmington,600 N Union St,DE,19805,2.5,9
+Sushi Xtreme,Wilmington,4708 Limestone Rd,DE,19808,4,91
+Colbie’s Southern Kissed Chicken,Newark,481 Stanton Christiana Rd,DE,19713,2.5,21
+Cafe Pomodoro,Wilmington,5337-B Limestone Rd,DE,19808,4.5,36
+Pochi,Wilmington,220 W 9th St,DE,19801,4.5,114
+Harry's Fish Market & Grill,Wilmington,3 S Orange St,DE,19801,3,9
+El Diablo Burritos,Wilmington,13A Trolley Sq,DE,19806,4.5,303
+Asian Kitchen,Hockessin,704 Lantana Dr,DE,19707,3.5,9
+Jessop's Tavern,New Castle,114 Delaware St,DE,19720,4,258
+Sunna Juice Bar,Wilmington,1420 N Dupont St,DE,19806,4,11
+Hot Spot Pizza,Wilmington,2714 Naamans Rd,DE,19810,4.5,11
+LongHorn Steakhouse,Wilmington,4157 Concord Pike,DE,19803,3.5,10
+Cafe Napoli Restaurant & Pizzeria,Wilmington,4391 Kirkwood Hwy,DE,19808,4,114
+Brew Ha Ha,Greenville,3838 Kennett Pike,DE,19807,4,80
+El Maya Mexican Grill,Wilmington,1300 Centerville Rd,DE,19808,3.5,74
+Sakura Japanese Sushi Restaurant,Wilmington,1203 Kirkwood Hwy,DE,19805,4.5,178
+Hideaway Bar & Grill,Wilmington,2619 Ebright Rd,DE,19810,4,14
+Newport Family Restaurant,Wilmington,601 W Newport Pike,DE,19804,4,45
+PureBread Deli,Newark,1309 Churchmans Rd,DE,19713,4,64
+Golden Castle Diner Restaurant,Wilmington,2722 Concord Pike,DE,19803,3.5,12
+Unique Chinese,Wilmington,1401 Philadelphia Pike,DE,19809,2.5,20
+Teriyaki Madness,Wilmington,3311 Concord Pike,DE,19803,3.5,27
+Walt's Chicken Express - Carpenter Station,Wilmington,"2601 Carpenter Station Rd, Ste 50",DE,19810,4,12
+El Toro,Wilmington,624 N Union St,DE,19805,4,59
+Joyful Garden,Wilmington,829 N Tatnall St,DE,19801,2.5,34
+Kyoto Japanese Restaurant,Wilmington,4563 Linden Hill Rd,DE,19808,3,51
+Naf Naf Grill,Newark,60 Geoffrey Dr,DE,19713,3.5,50
+Panera Bread,Wilmington,5619 Concord Pike,DE,19803,3,66
+Lettie's Kitchen,Hockessin,1318 Old Lancaster Pike,DE,19707,4.5,64
+Ted's Montana Grill - Christiana,Newark,3194 Fashion Center Blvd,DE,19702,3.5,149
+Mr. Taco,New Castle,101 East Hazeldell Ave,DE,19720,2.5,12
+China King Restaurant,Wilmington,2003 N Market St,DE,19802,2,7
+Marias Pizza & Pasta,Hockessin,723 Ace Memorial Dr,DE,19707,4,12
+Sang Hing Chinese Food Take Out,New Castle,"273 Christiana Rd, Ste 9A",DE,19720,4,21
+Rodney Grille,Wilmington,920 N King St,DE,19801,3,10
+Dunkin',Wilmington,2706 Concord Pike,DE,19803,3.5,10
+Hong Kong Chinese Food Eat In & Take Out,Wilmington,38 Carpenter Plz,DE,19810,4,16
+Hong Kong Chinese Food Pick Up,Wilmington,28A Trolley Sq,DE,19806,3.5,37
+Tandoori Restaurant,Newark,2671 Kirkwood Hwy,DE,19711,3,21
+Charlie's Pizza,Claymont,"2703 Philadelphia Pike, Ste C",DE,19703,4.5,39
+Bain's Deli,Wilmington,225 N Market St,DE,19801,3.5,15
+First Watch,Newark,74 Geoffrey Dr,DE,19713,4,166
+Osaka Express,New Castle,23 Penn Mart Ctr,DE,19720,3,13
+Avila's Bakery,Wilmington,1815 Lancaster Ave,DE,19805,4,7
+Kid Shelleen's Charcoal House & Saloon,Wilmington,1801 W 14th St,DE,19806,4,217
+Dunkin',Wilmington,1327 McKennans Church Rd,DE,19808,2.5,7
+Route 3 Diner,Wilmington,1300 Veale Rd,DE,19810,3,70
+GoodEase - Take and Bake,Wilmington,3619 Silverside Rd,DE,19810,4.5,13
+Hibachi Japanese Steak House,Newark,216 Astro Shopping Ctr,DE,19711,2.5,35
+Kabob On Wheels,Wilmington Manor,1401 N Dupont Hwy,DE,19720,5,60
+Domino's Pizza,Wilmington,1728 Marsh Rd,DE,19810,2,15
+Atami Grill & Sushi Express,Wilmington,833 N Market St,DE,19801,2.5,52
+Goodfellas Steaks & Subs,Wilmington,3206 Kirkwood Hwy,DE,19808,3.5,23
+Russell's Quality Food,Wilmington,1204 Centerville Rd,DE,19808,4.5,103
+Panaderia Y Taqueria Lili,Newark,2622 Kirkwood Hwy,DE,19711,4.5,8
+Admiral Taddy's,Wilmington,2601 Governor Printz Blvd,DE,19802,4.5,12
+Blue House,Wilmington,1203 Kirkwood Hwy,DE,19805,4.5,6
+Brandywine Diner,Wilmington,303 Rocky Run Pkwy,DE,19803,3.5,59
+Great Wall,Wilmington,4553 New Linden Hill Rd,DE,19808,2.5,20
+Columbus Inn,Wilmington,2216 Pennsylvania Ave,DE,19806,3.5,144
+Popeyes Louisiana Kitchen,Wilmington,2511 Northeast Blvd,DE,19802,2.5,12
+Saladworks,Wilmington,4127 Concord Pike,DE,19803,3,44
+Grotto Pizza,Wilmington,2015 Concord Pike,DE,19803,2.5,63
+Giovanni's Place,New Castle,2066 New Castle Ave,DE,19720,1.5,18
+Redfire Grill and Steakhouse,Hockessin,400 Lantana Dr,DE,19707,3.5,99
+Ernest & Scott Taproom,Wilmington,902 N Market St,DE,19801,3.5,119
+Luigis Pizzeria,Wilmington,14 Carpenter Plz,DE,19810,3,25
+Sugarfoot Fine Food,Wilmington,1007 N Orange St,DE,19801,3,10
+Johnnie's Dog House and Chicken Shack,Wilmington,3401 Concord Pike,DE,19803,4,151
+Serpe & Sons Bakery,Wilmington,1411 Kirkwood Hwy,DE,19805,3.5,40
+McDonald's,New Castle,3010 New Castle Ave,DE,19720,1,5
+Spice N' Nice,New Castle,3125 New Castle Ave,DE,19720,5,11
+Saap Lao Thai Cuisine,New Castle,287 Christiana Rd,DE,19720,4.5,63
+Applebee's Grill + Bar,Newark,900 Churchman's Rd,DE,19713,3,37
+Dunkin',Wilmington,1730 Marsh Rd,DE,19810,2.5,8
+The Dog House,New Castle,1200 N Dupont Hwy,DE,19720,4,140
+Pho Son,Wilmington,4015 Concord Pike,DE,19803,4,43
+Latin Fusion Restaurant & Lounge,Wilmington,837 N Union St,DE,19805,2.5,27
+Two Cousins Pizza,Hockessin,7460 Lancaster Pike,DE,19707,3,60
+Terra Cafe & Grille,Wilmington,721 N King St,DE,19801,4,22
+Trolley Square Oyster House,Wilmington,1707 Delaware Ave,DE,19806,4,172
+Burrito Bandido,Wilmington,227 N Maryland Ave,DE,19804,4.5,31
+Mystic Pizza,Wilmington,311 North King St,DE,19801,3,9
+Pizza Hut,Wilmington,3611 Kirkwood Hwy,DE,19808,1.5,45
+Embers,Claymont,630 Naamans Rd,DE,19703,3,16
+Vinoteca 902,Wilmington,902 N Market St,DE,19801,3.5,14
+Poke Bros - Wilmington,Wilmington,2117 Concord Pike,DE,19803,3.5,46
+Tung Hsing House,New Castle,505 E Basin Rd,DE,19720,2.5,12
+McDonald's,Wilmington,4625 Kirkwood Hwy,DE,19808,2,19
+Sbarro,Christiana,201 W Main St,DE,19702,3.5,6
+Trader's Cove Coffee Shop at Penn's Place,New Castle,206 Delaware St,DE,19720,4.5,36
+KOI on the go,Wilmington,2013 Kynwyd Rd,DE,19810,4.5,23
+Ubon Thai Cuisine,Wilmington,936 Justinson St,DE,19801,3.5,199
+Delaware Taco Festival,Wilmington,801 Shipyard Dr,DE,19801,2,8
+Argilla Brewing,Newark,2667 Kirkwood Hwy,DE,19711,3.5,148
+Eclipse Bistro,Wilmington,"1020 N Union St, Ste B",DE,19805,4.5,141
+Dreamers Cafe,Claymont,2095 Philadelphia Pike,DE,19703,3,11
+Ruby Thai,Newark,132 Christiana Mall,DE,19702,3.5,22
+Metro Diner,Newark,4601 Ogletown-Stanton Rd,DE,19713,4,381
+Santa Fe Mexican Grill - Wilmington,Wilmington,2006 Pennsylvania Ave,DE,19806,3.5,74
+Papa John's Pizza,Hockessin,222 Lantana Drive,DE,19707,3,5
+McDonald's,New Castle,700 N Dupont Hwy,DE,19720,1.5,6
+Bertucci's Italian Restaurant,Newark,201 W Main St,DE,19702,3.5,78
+Farmer & the Cow,Wilmington,413 N Market St,DE,19801,4,247
+California Pizza Kitchen at Christiana,Newark,325 Christiana Mall,DE,19702,3,79
+Tasti Thai,New Castle,287 Christiana Rd,DE,19720,3.5,124
+OMY Smoked BBQ,Wilmington,"4737 Concord Pike, Ste 810",DE,19803,3.5,9
+Crazy Bone Cafe,Wilmington,"3100 Naamans Rd, Ste 2",DE,19810,4.5,10
+Three Ddd's Steaks & Hoagies,New Castle,448 Moores Ln,DE,19720,3.5,19
+PureBread Deli,Wilmington,4801 Limestone Rd,DE,19808,3.5,27
+Brew Haha!,Wilmington,222 Delaware Ave,DE,19801,4,5
+Popeye's,Newark,530 Jfk Memorial Hwy,DE,19725,1.5,10
+Omka Grill & Sushi,Elsmere,"3301 Lancaster Pike, Unit 1C",DE,19805,4.5,20
+Culinaria,Wilmington,1812 Marsh Rd,DE,19810,4,53
+Hooters,Newark,2607 Capitol Trl,DE,19711,3,19
+Scratch Magoo's,Wilmington,1709 Delaware Ave,DE,19806,4,80
+Ike's Artisan Pizza,Wilmington,4569 New Linden Hill Rd,DE,19808,4.5,8
+Bachetti Bros,Wilmington,4723 B Kirkwood Hwy,DE,19808,4.5,24
+Old Country Buffet,Newark,1325 New Churchmans Rd,DE,19713,3.5,40
+Omega Pizza,Wilmington,209 W 4th St,DE,19801,2.5,16
+Ruby Tuesday,Wilmington,4732 Limestone Rd,DE,19808,2.5,44
+Seasons Pizza,Wilmington,4723 Kirkwood Hwy,DE,19808,2,31
+Fresco pizzeria,Wilmington,1812 Marsh Rd,DE,19810,4,22
+Piree's Piri Piri Grill,Wilmington,5335A Limestone Rd,DE,19808,4,77
+The Mayne Dish,Wilmington,2202 Kirkwood Hwy,DE,19805,4.5,25
+Fusion Spice Bar & Grille,Wilmington,"2801 Lancaster Ave, Ste C",DE,19805,3.5,7
+Bertucci's Italian Restaurant,Wilmington,3610 Concord Pike,DE,19803,3.5,67
+Chuck Lager - America's Tavern,Pike Creek,4500 New Linden Hill Rd,DE,19808,4,132
+Five Guys,Hockessin,136 Lantana Dr,DE,19707,3,26
+Locale BBQ Post,Wilmington,1715 Delaware Ave,DE,19806,4,59
+Kelly's Logan House,Wilmington,1701 Delaware Ave,DE,19806,3,69
+Don Pablo's,Newark,600 Ctr Blvd,DE,19702,2.5,127
+Oldbanks Bistro,Wilmington,1711 Delaware Ave,DE,19806,4,46
+Mary's Kountry Kitchen,Wilmington,222 Main St,DE,19804,4,50
+Applebee's Grill + Bar,New Castle,105 Wilton Blvd,DE,19720,2,35
+Stitch House Brewery,Wilmington,829 N Market St,DE,19801,4,160
+George's Restaurant,Wilmington,703 Philadelphia Pike,DE,19809,3.5,19
+Flavor Of India,Newark,2671 Kirkwood Hwy,DE,19711,4,25
+Cafe Pizzeria,New Castle,269 N Dupont Hwy,DE,19720,4,15
+Casapulla's Elsmere Steak & Sub Shop,Wilmington,514 Junction St,DE,19805,4,49
+Potstickers Asian Grill,Newark,1247 Churchmans Rd,DE,19713,3.5,220
+Boston Market,Wilmington,1611 Pennsylvania Ave,DE,19806,3,12
+Karribbean Delight,Wilmington,1030 S Market St,DE,19720,3.5,15
+River Rock Kitchen,Wilmington,818 Shipyard Dr,DE,19801,3.5,56
+Sheraton Suites Wilmington Downtown,Wilmington,422 Delaware Ave,DE,19801,3,82
+The Cheesecake Factory - Newark,Newark,350 Christiana Mall,DE,19702,3,263
+PrimoHoagies,Claymont,"3501 Philadelphia Pike, Ste 1",DE,19703,4,41
+vPho,Newark,2671 Kirkwood Hwy,DE,19711,4.5,217
+India Palace Indian Restaurant,Wilmington,101 N Maryland Ave,DE,19804,4.5,84
+Applebee's Grill + Bar,Wilmington,1600 Rocky Run Pkwy,DE,19803,2,46
+Appleton Catering,Wilmington,3517 Old Capitol Trl,DE,19808,4,5
+Pickles & Chip's,Wilmington,1707 Foulk Rd,DE,19803,3.5,46
+Fat Rick's BBQ and Catering,Wilmington,"1401 Foulk Rd, Bldg 1413",DE,19803,4,9
+Pete's Pizza,Wilmington,2625 N Market St,DE,19802,2,36
+El Pique - Wilmington,Wilmington,805 Old Dupont Rd,DE,19804,4.5,173
+Two Stones Pub,Wilmington,2502 Foulk Rd,DE,19810,4,158
+Harvest House,Wilmington,1204 N Washington St,DE,19801,4.5,46
+Juliana's Kitchen,Wilmington,1828 W 11th St,DE,19805,4.5,188
+Greenhill Deli-Pizza,Wilmington,2501 W 4th St,DE,19805,4.5,15
+Crafty Crab,Wilmington,429 S Walnut St,DE,19801,3.5,7
+Main Event Newark,Newark,2900 Fashion Center Blvd,DE,19702,2.5,140
+MidiCi The Neapolitan Pizza Company,Newark,3256 Fashion Center Blvd,DE,19702,4,84
+Timothy's On the Riverfront,Wilmington,930 Justison St,DE,19801,2.5,138
+Centreville Cafe,Wilmington,5800 Kennett Pike,DE,19807,4,35
+A Ya So Nice Authentic Jamaican Food,New Castle,165 S Dupont Hwy,DE,19720,4.5,20
+Philippine Smoked BBQ Grill,Wilmington,1700 Kirkwood Hwy,DE,19805,4.5,111
+Metro Diner,Wilmington,"5600 Concord Pike, Unit 5614",DE,19803,3.5,148
+India Grille,Wilmington,3456 Naamans Rd,DE,19810,3.5,117
+Hollywood Grill,Wilmington,1811 Concord Pike,DE,19803,3.5,190
+Captain's Catch Seafood,Wilmington,5828 Kirkwood Hwy,DE,19808,3.5,12
+La Tonalteca - Hockessin,Hockessin,700 Lantana Dr,DE,19707,3,36
+2 Fat Guys American Grill,Hockessin,701 Ace Memorial Dr,DE,19707,3.5,69
+Blue Parrot Bar & Grille,Wilmington,1934 West 6th St,DE,19805,3,46
+Cacciatori Pizza & Pasta,Newark,108 Louviers Dr,DE,19711,4,37
+Bull's Eye Saloon & Restaurant,Wilmington,3734 Kirkwood Hwy,DE,19808,3,18
+Le Cavalier At The Green Room,Wilmington,42 W 11th St,DE,19801,3.5,41
+PrimoHoagies,Wilmington,"3616 Kirkwood Hwy, Ste G",DE,19808,3,24
+Hibachi Grill & Supreme Sushi Buffet,Wilmington,4403 Kirkwood Hwy,DE,19808,3,83
+Dunkin',New Castle,201 S Dupont Hwy,DE,19720,2.5,9
+Jimmy John's,Wilmington,"824 N Market St, Ste 105",DE,19801,3,15
+Hunan Asian Cuisine,Wilmington,"1812 Marsh Rd, Ste 8, Branmar Plaza",DE,19810,3,34
+1000 Degrees Pizza Salad Wings,Wilmington,4526 New Linden Hill Rd,DE,19808,2.5,25
+Toscana to Go,Wilmington,1402 N Dupont St,DE,19806,3,21
+Rosenfeld's Jewish Delicatessen,Wilmington,1204 Washington St,DE,19801,3,30
+Burger King,New Castle,1530 N Du Pont Hwy,DE,19720,2,11
+Paris Pizza,Wilmington,1735 Marsh Rd,DE,19810,3,32
+Grand East Buffet,Wilmington,2072 Naamans Rd,DE,19810,3,85
+Mrs Snyder's,New Castle,414 Delaware St,DE,19720,4,7
+Casablanca Moroccan Restaurant,New Castle,4010 N Dupont Hwy,DE,19720,4.5,102
+Los Taquitos De Puebla II,Hockessin,711 Ace Memorial Dr,DE,19707,4,13
+Semo's Restaurant,Wilmington,501 W 9th St,DE,19801,4.5,23
+Burger King,Newark,530 Jfk Memorial Hwy,DE,19702,2,24
+Subway Restaurants,Wilmington,1710 Marsh Rd,DE,19810,2.5,7
+Country Maid Deli-Jack's,Wilmington,2400 Kirkwood Hwy & Millt,DE,19805,3,13
+Taco Bell,Wilmington,4302 Kirkwood Hwy,DE,19808,2.5,23
+V&M Bistro,Wilmington,1717 Marsh Rd,DE,19810,3.5,93
+Tex Mex Burriro,Wilmington,2307 W Newport Pike,DE,19804,5,15
+Wings To Go - New Castle,New Castle,1404 N Dupont Hwy,DE,19720,3,10
+Dunkin',Wilmington,4902 Kirkwood Hwy,DE,19808,1.5,7
+Slack's Hoagie Shack,Wilmington,1601 Concord Pike,DE,19803,3,12
+Madison's Smoked BBQ,Newark,4154 Ogletown-stanton Rd,DE,19713,3.5,16
+Temptations,Wilmington,11A Trolley Sq,DE,19806,3,11
+Adda - Indian Grill,Newark,4621 Ogletown Stanton Rd,DE,19713,2.5,11
+McDonald's,New Castle,3014 New Castle Ave,DE,19720,2,6
+Ming Kitchen,Newark,150 Salem Church Rd,DE,19713,2.5,14
+Capriotti's Sandwich Shop,Wilmington,510 N Union St,DE,19805,3.5,46
+Chipotle Mexican Grill,Wilmington,3700 Kirkwood Hwy,DE,19808,2,36
+Union City Grille,Wilmington,805 N Union St,DE,19805,3.5,36
+Krispy Krunchy Chicken Pizza Grill,Wilmington,1504 Philadelphia Pike,DE,19809,4,5
+The Plum Pit,Aston,4405 Pennell Rd,DE,19014,4.5,14
+Wawa,Wilmington,4555 New Linden Hill Rd,DE,19808,3,10
+The Greene Turtle Sports Bar & Grille,Christiana,425 Stanton Christiana Rd,DE,19713,3,73
+Washington Street Ale House,Wilmington,1206 Washington St,DE,19801,3.5,238
+Cafe Palermo,Wilmington,3612 Miller Rd,DE,19802,3.5,21
+Taj Mahal Restaurant,Wilmington,2314 Carpenter Station Rd,DE,19810,4,70
+Tailgates Sports Bar and Grill,Newark,4126 Stanton-Ogletown Rd,DE,19713,2.5,22
+Los Jarritos,New Castle,110 N Dupont Hwy,DE,19720,4,17
+Hibachi Japanese Steak House,Wilmington,5607 Concord Pike,DE,19803,3,33
+Mamma Gina Pizza,New Castle,110 N Dupont Hwy,DE,19720,4.5,14
+IHOP,New Castle,148 N Dupont Hwy,DE,19720,2.5,39
+Famous Rivera Grill,Hockessin,7313 Lancaster Pike,DE,19707,3.5,39
+Masala Kitchen,Wilmington,825 N Market St,DE,19801,4,32
+Espresso! Coffee Bar,Wilmington,1201 N Market St,DE,19801,4.5,5
+Pinang Asian Cuisine,Newark,218 Louviers Dr,DE,19711,4,142
+Sbarro,Wilmington,"4737 Concord Pike, Ste 840",DE,19803,3.5,6
+3 Stars Pizza,Wilmington,105 N Union St,DE,19805,2.5,28
+UDairy Creamery Market,Wilmington,815 N Market St,DE,19801,4.5,36
+Panera Bread,Wilmington,3650 Kirkwood Hwy,DE,19808,2.5,61
+Mi Cosina,New Castle,165 S Dupont Hwy,DE,19720,4.5,21
+Two Stones Pub,Hockessin,300 Lantana Dr,DE,19707,3.5,51
+Happy Fortune Restaurant,Wilmington,1808 Marsh Rd,DE,19810,3.5,20
+Little Caesars Pizza,Wilmington,2500 Foulk Rd,DE,19810,2,14
+Nuyorican Pasteles,New Castle,12 Bunker Hill Rd,DE,19720,1,13
+Lawerence Pizza & Restaurant,New Castle,801 Churchmans Road Ext,DE,19720,3.5,14
+Gaudiello's Italian Hoagies,Wilmington,29A Trolley Sq,DE,19806,4.5,105
+1 In Town,New Castle,240 S Dupont Hwy,DE,19720,4.5,10
+Levitea,Wilmington,807 North Union St,DE,19801,5,8
+Melt Shop,Newark,"228 Christiana Mall, Christiana Mall",DE,19702,3.5,13
+Jamba,Wilmington,5613 Concord Pike,DE,19803,3,24
+Puff Daddy's Sandwich Shop,Wilmington,Mill Rd,DE,19804,4,5
+King Garden Chinese Restaurant,Wilmington,3466 Naamans Rd,DE,19810,3.5,33
+Goober’s Diner,Wilmington,1203 N Lincoln St,DE,19806,3.5,34
+Ulysses American Gastro Pub,Wilmington,1716 Marsh Rd,DE,19810,3.5,248
+Cheeseburger in Paradise,Newark,40 Geoffrey Dr.,DE,19713,2.5,34
+Carolines,New Castle,410 Delaware St,DE,19720,3.5,6
+The Rat Pack Bistro,Wilmington,300 Delaware Ave,DE,19801,4,9
+Subway,Wilmington,1012 Wilmington Ave,DE,19805,2.5,7
+Wingstop,Wilmington,"4723 Kirkwood Hwy, Ste C",DE,19808,3,8
+Eppy's Authentic Bar-B-Que & Fried Chicken,Wilmington,1504 Philadelphia Pike,DE,19809,4,7
+Romano's Macaroni Grill,Wilmington,4157 Concord Pike,DE,19803,2.5,66
+La Taqueria Riverfront Market,Wilmington,3 S Orange St,DE,19801,3,10
+Gyro Stop,Wilmington,1706 Kirkwood Hwy,DE,19805,4.5,5
+Del Rose Cafe,Wilmington,1707 Delaware Ave,DE,19806,4,8
+Capriotti's Sandwich Shop,Hockessin,120 Lantana Dr,DE,19707,3,55
+honeygrow,Christiana,3200 Fashion Center Blvd Christiana De,DE,19702,3.5,61
+Six Paupers Tavern & Restaurant,Hockessin,"7465 Lancaster Pike, Ste H",DE,19707,3,60
+Junction Eighteen,Wilmington,3542 Three Little Bakers Blvd,DE,19808,2.5,5
+Rigatoni's Mobile Crab Cakes,Claymont,651 Naamans Rd,DE,19703,4,9
+El Tapatio Mexican Restaurant,Wilmington,1700 Philadelphia Pike,DE,19809,3,161
+Dreamers Cafe,Wilmington,"1312 Philadelphia Pike, Ste 2",DE,19703,4,32
+Southeast Kitchen,Wilmington,1901 Delaware Ave,DE,19806,4,239
+Little Anthony's Pizza,New Castle,"287 Christiana Rd, Ste 10",DE,19720,4.5,45
+Rivera Taco Express,New Castle,243 Christiana Rd,DE,19720,4.5,42
+Riverfront Market,Wilmington,3 S Orange St,DE,19801,3.5,21
+Famous Famiglia,Newark,530 Jfk Memorial Hwy,DE,19702,3,7
+Rocco Italian Grill & Sports Bar,Wilmington,701 N Union St,DE,19805,4,87
+Walt's Flavor Crisp Chicken,Wilmington,3612 Miller Rd,DE,19802,4,17
+Sushi Sumo,Newark,2653 Kirkwood Hwy,DE,19711,4.5,191
+C & C Country Maid,Newark,260 University Plz,DE,19702,4,10
+Grapes Real Jamaican Cuisine,Wilmington,2302 N Market St,DE,19802,4,11
+The Crow Bar,Wilmington,1711 Delaware Ave,DE,19806,3.5,27
+Moe's Southwest Grill,Wilmington,5311 Brandywine Pkwy,DE,19803,2.5,46
+Angelo's Luncheonette,Wilmington,1722 N Scott St,DE,19806,4.5,49
+Twist'd Tomato,Wilmington,4569 New Linden Hill Rd,DE,19808,3.5,24
+Popeyes Louisiana Kitchen,New Castle,1505 Dupont Hwy,DE,19720,2,21
+Augusta Grille,New Castle,1612 N Dupont Hwy,DE,19720,3.5,5
+1000 Degrees Pizza,Wilmington,4526 New Linden Hill Rd,DE,19808,3,32
+Joe's Crab Shack,Wilmington,600 S Madison St,DE,19801,2.5,151
+El Camino Mexican Kitchen,Wilmington,3559 Silverside Rd,DE,19810,3.5,105
+Eggspectation,Newark,507 Stanton Christiana Rd,DE,19713,4,218
+Poke Bros,Wilmington,4571 Kirkwood Hwy,DE,19808,4,68
+Cosi,Wilmington,"125 S W St, Ste 119",DE,19801,3,11
+Pat's Pizza & Pasta,Wilmington,5603 Kirkwood Hwy,DE,19808,2.5,21
+Pat's Pizzeria,Claymont,1815 Philadelphia Pke,DE,19809,3,16
+KFC,Wilmington,4303 Kirkwood Hwy.,DE,19808,2.5,7
+Casa Tropical Latin Cuisine,Wilmington,4015 Concord Pike,DE,19803,3,11
+Marsh Road Diner,Wilmington,407 Marsh Rd,DE,19809,3.5,92
+Papa John's Pizza,New Castle,529 East Basin Road,DE,19720,1,8
+Hachi Asian Fusion,Wilmington,1724 W Newport Pike,DE,19804,4,39
+Seafood Stop,Wilmington,12 E 4th St,DE,19801,3,6
+El Fogon De Tato,Wilmington,2304 Kirkwood Hwy,DE,19805,5,6
+Dunkin',Wilmington,301 N. Maryland Ave,DE,19804,2,5
+Seasons Pizza,Wilmington,3901 Concord Pike,DE,19803,3,46
+Indian Hut,Newark,1253 Churchmans Rd,DE,19713,2.5,22
+Yi Palace - Wilmington,Wilmington,4435 Concord Pike,DE,19803,3.5,118
+Trolley Tap House,Wilmington,1616 Delaware Ave,DE,19806,3.5,78
+Wawa,New Castle,7 E Commons Blvd,DE,19720,3,8
+Ciro Forty Acres,Wilmington,1836 Lovering Ave,DE,19806,3.5,36
+Himalaya Indian Restaurant,Newark,2671 Kirkwood Hwy,DE,19711,3.5,11
+Tokyo Express,Newark,4146 Ogletown Stanton Rd,DE,19713,4,53
+The Juice Joint,Wilmington,323 Justison St,DE,19801,4,14
+Extreme Pizza - Wilmington,Wilmington,201 N Market St,DE,19801,2.5,69
+El Mana Restaurant,Wilmington,106 N Union St,DE,19805,4,24
+Papa John's Pizza,Wilmington,2114 Marsh Road,DE,19810,3,16
+Capriotti's Sandwich Shop,Wilmington,2124 Silverside Rd,DE,19803,3.5,75
+honeygrow,Wilmington,"5609 Concord Pike, Unit 7B",DE,19803,3.5,93
+Grub Burger Bar,Wilmington,"4737 Concord Pike, Ste 810",DE,19803,4,170
+Santa Fe Mexican Grill - Wilmington,Wilmington,"2000 Pennsylvania Ave, Ste 105",DE,19806,4,33
+Piri Piri Grill,Wilmington,5335 Limestone Rd,DE,19808,4.5,6
+New Dragon Restaurant,Hockessin,707 Ace Memorial Dr,DE,19707,4,12
+La Tolteca - Wilmington,Wilmington,4147 Concord Pike,DE,19803,3,201
+DECO,Wilmington,111 W 10th St,DE,19801,4,41
+Salute Bistro & Bar,Newark,4621 Ogletown Stanton Rd,DE,19713,3,17
+McGlynns Pub,Newark,8 Polly Drummond Shopping Ctr,DE,19711,3,48
+Fuddruckers,Newark,40 Geoffrey Dr,DE,19713,3.5,75
+Sansone's Seafood Market,Wilmington,7th & Lincoln St,DE,19801,4,24
+Charcoal Pit,Wilmington,2600 Concord Pike,DE,19803,3,214
+Little Spice Indian Cuisine,Newark,4621 Ogletown Stanton Rd,DE,19713,4.5,10
+Le Shio,Wilmington,2303 Concord Pike,DE,19803,3.5,201
+Bally's Chinese Restaurant,Wilmington,2116 N Market St,DE,19802,3.5,23
+Mona Lisa,Wilmington,607 N Lincoln St,DE,19805,4,18
+China Dragon,Wilmington,1954 Maryland Ave,DE,19805,4.5,11
+Urban Cafe,Wilmington,"1201 N Market St, Ste 110",DE,19801,4,17
+Pinji's Cafe,Wilmington,913 N Market St,DE,19801,3.5,10
+Champps Restaurant and Bar,Wilmington,4737 Concord Pike,DE,19803,2.5,8
+Big D's Pizza,Wilmington,3634 Old Capitol Trl,DE,19808,4.5,9
+Ciao Pizza & Pasta,Wilmington,3218 Kirkwood Hwy,DE,19808,3.5,23
+Farm a Sea Bistro & Crafthouse,Newark,56 S Old Baltimore Pike,DE,19702,3,28
+Capriotti's Sandwich Shop,Newark,4132 Ogletown Stanton Rd,DE,19713,2,13
+Rascals Crab & Seafood Restaurant,New Castle,1102 N Dupont Hwy,DE,19720,3,6
+Leo & Jimmy's Delicatessen,Wilmington,728 N Market St,DE,19801,4,14
+Simba Tropical Grill,Claymont,333 Naamans Rd,DE,19703,3.5,7
+China Express,Wilmington,"4737 Concord Pike, Ste 800",DE,19803,3,9
+Nicely's Jamaican Kitchen,Wilmington,301 W 4th St,DE,19801,5,12
+The Original Hot Bagels,Wilmington,4738 Limestone Rd,DE,19808,3.5,14
+Horace Shellhammer's,Newark,9C University Plz,DE,19702,4,149
+Nordstrom Grill,Newark,100 Christiana Mall,DE,19702,3.5,17
+Catherine Rooney's,Wilmington,1616 Delaware Ave,DE,19806,3,73
+Limoncello Italian Grill,Newark,4621 Ogletown Stanton Rd,DE,19713,3.5,15
+Godavari,Wilmington,3615 Kirkwood Hwy,DE,19808,3.5,161
